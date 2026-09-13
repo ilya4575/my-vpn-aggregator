@@ -1,23 +1,21 @@
 import requests, json, base64, re
 
-# Какие подписки брать
 WIFI_NAMES = [
     "BLACK_VLESS_RUS_mobile",
     "BLACK_VLESS_RUS",
-    "BLACK_SS+All_RUS",
 ]
 WHITE_NAMES = [
     "Vless-Reality-White-Lists-Rus-Mobile",
     "WHITE-CIDR-RU-all",
-    "WHITE-CIDR-RU-checked",
 ]
 
-PROTO = re.compile(r'^(vless|vmess|ss|trojan|hysteria2?|tuic)://', re.I)
+PROTO = re.compile(r'^vless://', re.I)
 
 
-def fetch_configs(names, subs):
-    """Скачивает все конфиги из указанных подписок"""
-    result = []
+def fetch_first_vless(names, subs, skip=0):
+    """Возвращает ПЕРВЫЙ валидный vless-конфиг из указанных подписок.
+       skip — сколько первых пропустить (для разнообразия)."""
+    found = []
     seen = set()
     for sub in subs:
         if sub["name"] not in names:
@@ -25,29 +23,29 @@ def fetch_configs(names, subs):
         try:
             r = requests.get(sub["url"], timeout=30)
             if r.status_code != 200:
-                print(f"  SKIP {sub['name']}: HTTP {r.status_code}")
                 continue
-
             text = r.text.strip()
 
-            # Base64?
             if "base64" in sub["path"].lower():
                 try:
                     text = base64.b64decode(text).decode("utf-8", errors="ignore")
                 except Exception:
                     pass
 
-            count = 0
             for line in text.splitlines():
                 line = line.strip()
                 if PROTO.match(line) and line not in seen:
                     seen.add(line)
-                    result.append(line)
-                    count += 1
-            print(f"  OK {sub['name']}: +{count}")
+                    found.append(line)
+            if found:
+                print(f"  OK {sub['name']}: {len(found)} vless")
         except Exception as e:
             print(f"  ERR {sub['name']}: {e}")
-    return result
+
+    if not found:
+        return None
+    idx = skip % len(found)
+    return found[idx]
 
 
 def main():
@@ -55,22 +53,26 @@ def main():
         data = json.load(f)
     subs = data["subscriptions"]
 
-    print("=== WIFI ===")
-    wifi = fetch_configs(WIFI_NAMES, subs)
-    print(f"WIFI: {len(wifi)} конфигов")
+    print("=== WIFI (1 сервер) ===")
+    wifi = fetch_first_vless(WIFI_NAMES, subs, skip=0)
 
-    print("=== WHITELIST ===")
-    white = fetch_configs(WHITE_NAMES, subs)
-    print(f"WHITELIST: {len(white)} конфигов")
+    print("=== WHITELIST (1 сервер) ===")
+    white = fetch_first_vless(WHITE_NAMES, subs, skip=0)
 
-    # Метки
     final = []
-    for c in wifi:
-        base = c.rsplit("#", 1)[0] if "#" in c else c
+    if wifi:
+        base = wifi.rsplit("#", 1)[0] if "#" in wifi else wifi
         final.append(base + "#WIFI")
-    for c in white:
-        base = c.rsplit("#", 1)[0] if "#" in c else c
+        print(f"WIFI: {wifi[:60]}...")
+    else:
+        print("WIFI: НЕ НАЙДЕН")
+
+    if white:
+        base = white.rsplit("#", 1)[0] if "#" in white else white
         final.append(base + "#WHITELIST")
+        print(f"WHITELIST: {white[:60]}...")
+    else:
+        print("WHITELIST: НЕ НАЙДЕН")
 
     txt = "\n".join(final)
     b64 = base64.b64encode(txt.encode()).decode()
@@ -80,7 +82,7 @@ def main():
     with open("subscription_plain.txt", "w") as f:
         f.write(txt)
 
-    print(f"\nИтог: {len(final)} серверов (WIFI {len(wifi)}, WHITE {len(white)})")
+    print(f"\nИтог: {len(final)} серверов")
 
 
 if __name__ == "__main__":
