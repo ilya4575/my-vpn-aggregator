@@ -23,9 +23,10 @@ jobs:
 
       - name: Download Xray
         run: |
-          wget -q https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip
-          unzip -q Xray-linux-64.zip
+          wget -q https://github.com/XTLS/Xray-core/releases/download/v25.9.11/Xray-linux-64.zip
+          unzip -o Xray-linux-64.zip
           chmod +x xray
+          ./xray version
 
       - name: Collect subscriptions
         run: python collect_vpn.py
