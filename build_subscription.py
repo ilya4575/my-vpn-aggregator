@@ -11,10 +11,8 @@ WHITE_NAMES = [
 
 
 def fetch_first_vless(names, subs, skip=0):
-    """Ищет первый подходящий vless-конфиг. Пропускает xhttp (Incy его не ест)."""
     found = []
     seen = set()
-
     for sub in subs:
         if sub["name"] not in names:
             continue
@@ -23,15 +21,12 @@ def fetch_first_vless(names, subs, skip=0):
             if r.status_code != 200:
                 print(f"  SKIP {sub['name']}: HTTP {r.status_code}")
                 continue
-
             text = r.text
-
             if "base64" in sub["path"].lower():
                 try:
                     text = base64.b64decode(text).decode("utf-8", errors="ignore")
                 except Exception:
                     pass
-
             for line in text.splitlines():
                 line = line.strip()
                 idx = line.find("vless://")
@@ -43,11 +38,9 @@ def fetch_first_vless(names, subs, skip=0):
                 if clean and clean not in seen:
                     seen.add(clean)
                     found.append(clean)
-
             print(f"  {sub['name']}: {len(found)} vless (без xhttp)")
         except Exception as e:
             print(f"  ERR {sub['name']}: {e}")
-
     if not found:
         return None
     return found[skip % len(found)]
@@ -91,24 +84,7 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-    final = []
-    if wifi:
-        base = wifi.rsplit("#", 1)[0] if "#" in wifi else wifi
-        final.append(base + "#WIFI")
-        print(f"WIFI: {wifi[:60]}...")
-    else:
-        print("WIFI: НЕ НАЙДЕН")
-
-    if white:
-        base = white.rsplit("#", 1)[0] if "#" in white else white
-        final.append(base + "#WHITELIST")
-        print(f"WHITELIST: {white[:60]}...")
-    else:
-        print("WHITELIST: НЕ НАЙДЕН")
-
-    txt = "\n".join(final)
-    b64 = base64.b64encode(txt.encode()).decode()
+    main()    b64 = base64.b64encode(txt.encode()).decode()
 
     with open("subscription_base64.txt", "w") as f:
         f.write(b64)
