@@ -13,8 +13,6 @@ PROTO = re.compile(r'^vless://', re.I)
 
 
 def fetch_first_vless(names, subs, skip=0):
-    """Возвращает ПЕРВЫЙ валидный vless-конфиг из указанных подписок.
-       skip — сколько первых пропустить (для разнообразия)."""
     found = []
     seen = set()
     for sub in subs:
@@ -23,8 +21,9 @@ def fetch_first_vless(names, subs, skip=0):
         try:
             r = requests.get(sub["url"], timeout=30)
             if r.status_code != 200:
+                print(f"  SKIP {sub['name']}: HTTP {r.status_code}")
                 continue
-            text = r.text.strip()
+            text = r.text
 
             if "base64" in sub["path"].lower():
                 try:
@@ -34,13 +33,23 @@ def fetch_first_vless(names, subs, skip=0):
 
             for line in text.splitlines():
                 line = line.strip()
-                if PROTO.match(line) and line not in seen:
-                    seen.add(line)
-                    found.append(line)
-            if found:
-                print(f"  OK {sub['name']}: {len(found)} vless")
+                idx = line.find("vless://")
+                if idx == -1:
+                    continue
+                clean = line[idx:].strip()
+                # Пропускаем xhttp — Incy его не умеет
+                if "type=xhttp" in clean:
+                    continue
+                if clean not in seen:
+                    seen.add(clean)
+                    found.append(clean)
+            print(f"  {sub['name']}: {len(found)} vless (без xhttp)")
         except Exception as e:
             print(f"  ERR {sub['name']}: {e}")
+
+    if not found:
+        return None
+    return found[skip % len(found)]
 
     if not found:
         return None
