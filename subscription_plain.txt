@@ -1,2 +1,2 @@
 vless://6230dfe2-7de5-4d4b-990f-73ac7f53e987@107.161.168.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=cU1ph0JNcNsFk-fSIZ88D9MiiMDNMVu2eKKIa4Q6nhQ&security=reality&sid=2f53900b845a6e34&sni=usa.demka.live&type=tcp#WIFI
-vless://88ce17fc-7c6c-43a7-98a4-33fb59697b17@95.163.214.43:443?host=vk.com&nonce=CqUay3_-&path=%2Fapi%2Fv1%2Fe0163615&pbk=VdG4ntV15FfNWV4rvSny2mvOTSXfOUVKHNC0dOyXY2s&security=reality&seq=you_are_beautiful8773&sid=864fbb122f15b43d&sni=ok.ru&type=xhttp&fp=android#WHITELIST
+vless://6aaa7d1d-8b35-4fd2-ae60-0129ad624935@188.68.218.205:443?encryption=none&pbk=8dPBbufX7ST4NrD8Etatp_FR_mbd38vXa2ZXCVLxjQ4&security=reality&serviceName=grpc&sid=0fc62d3cd3089adb&sni=static-basket-01.wbbasket.ru&type=grpc&fp=ios#WHITELIST
