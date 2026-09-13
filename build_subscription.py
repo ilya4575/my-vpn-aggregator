@@ -1,13 +1,7 @@
-import requests, json, base64, re
+import requests, json, base64
 
-WIFI_NAMES = [
-    "BLACK_VLESS_RUS_mobile",
-    "BLACK_VLESS_RUS",
-]
-WHITE_NAMES = [
-    "Vless-Reality-White-Lists-Rus-Mobile",
-    "WHITE-CIDR-RU-all",
-]
+WIFI_NAMES = ["BLACK_VLESS_RUS_mobile", "BLACK_VLESS_RUS"]
+WHITE_NAMES = ["Vless-Reality-White-Lists-Rus-Mobile", "WHITE-CIDR-RU-all"]
 
 
 def fetch_first_vless(names, subs, skip=0):
@@ -19,7 +13,6 @@ def fetch_first_vless(names, subs, skip=0):
         try:
             r = requests.get(sub["url"], timeout=30)
             if r.status_code != 200:
-                print(f"  SKIP {sub['name']}: HTTP {r.status_code}")
                 continue
             text = r.text
             if "base64" in sub["path"].lower():
@@ -38,7 +31,7 @@ def fetch_first_vless(names, subs, skip=0):
                 if clean and clean not in seen:
                     seen.add(clean)
                     found.append(clean)
-            print(f"  {sub['name']}: {len(found)} vless (без xhttp)")
+            print(f"  {sub['name']}: {len(found)} vless")
         except Exception as e:
             print(f"  ERR {sub['name']}: {e}")
     if not found:
@@ -51,24 +44,22 @@ def main():
         data = json.load(f)
     subs = data["subscriptions"]
 
-    print("=== WIFI (1 сервер) ===")
-    wifi = fetch_first_vless(WIFI_NAMES, subs, skip=0)
+    print("=== WIFI ===")
+    wifi = fetch_first_vless(WIFI_NAMES, subs, 0)
 
-    print("=== WHITELIST (1 сервер) ===")
-    white = fetch_first_vless(WHITE_NAMES, subs, skip=0)
+    print("=== WHITELIST ===")
+    white = fetch_first_vless(WHITE_NAMES, subs, 0)
 
     final = []
     if wifi:
-        base = wifi.rsplit("#", 1)[0] if "#" in wifi else wifi
-        final.append(base + "#WIFI")
-        print(f"WIFI: {wifi[:60]}...")
+        final.append(wifi.rsplit("#", 1)[0] + "#WIFI")
+        print("WIFI: " + wifi[:60])
     else:
         print("WIFI: НЕ НАЙДЕН")
 
     if white:
-        base = white.rsplit("#", 1)[0] if "#" in white else white
-        final.append(base + "#WHITELIST")
-        print(f"WHITELIST: {white[:60]}...")
+        final.append(white.rsplit("#", 1)[0] + "#WHITELIST")
+        print("WHITELIST: " + white[:60])
     else:
         print("WHITELIST: НЕ НАЙДЕН")
 
@@ -80,18 +71,7 @@ def main():
     with open("subscription_plain.txt", "w") as f:
         f.write(txt)
 
-    print(f"\nИтог: {len(final)} серверов")
-
-
-if __name__ == "__main__":
-    main()    b64 = base64.b64encode(txt.encode()).decode()
-
-    with open("subscription_base64.txt", "w") as f:
-        f.write(b64)
-    with open("subscription_plain.txt", "w") as f:
-        f.write(txt)
-
-    print(f"\nИтог: {len(final)} серверов")
+    print("Итог: " + str(len(final)))
 
 
 if __name__ == "__main__":
