@@ -1,2 +1,1 @@
-vless://dc6d7b88-a771-434f-a43a-ac1b50cf0102@62.238.115.33:4006?encryption=none&type=tcp&security=reality&sni=www.numpy.org&pbk=iNVZBiAH9hzLyqGnD6cc6waNryJ1KDaYk80ufskPQD0&sid=37938270d49c150c&allowInsecure=1&fp=chrome#WIFI
-vless://0f754570-3d85-471e-ab9b-9ad2262cefb9@api.videopotok.cc:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.videopotok.cc&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&type=tcp&fp=android#WHITELIST
+vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@w7tjfftjdt.vk-maps.net:52006?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=o_ZQuEx_ealt_YkqgtYRqFhee0pzFkg9ObUhODLTAB8&fp=chrome&sni=api5.vk-maps.net&sid=08#WIFI
