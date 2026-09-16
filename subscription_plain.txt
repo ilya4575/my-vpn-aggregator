@@ -1,2 +1,2 @@
-vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@ee.cdn-update.rutube.info:20443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=-AdhgMZeNHR2zAmGWa5peg7Ni0-e4IVMoSzydC9n7C4&fp=chrome&sni=dest1.cdn-update.rutube.info&sid=08#WIFI
-vless://cfffb81e-5034-49ce-8729-18b60c7f1e89@tt.sonyabibboop.com:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=tt.sonyabibboop.com&pbk=WRPeyQ_iktgiTrL_TekP-U_I7AAAdFokfKZHK2Ankzw&sid=d5cb64c07671c019&fp=firefox#WHITELIST
+vless://87646ddd-a8b0-4fea-a65c-ad86b0501c54@8.211.152.47:443?flow=xtls-rprx-vision&pbk=ycun6HN1qxz3fcfn15Bhut7loBGfohZ0wzTIkHKagyg&security=reality&sid=89fdcf10a3cbd0b1&sni=www.logitech.com&type=tcp&fp=edge#WIFI
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@ns.o11111o.club:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=chrome#WHITELIST
