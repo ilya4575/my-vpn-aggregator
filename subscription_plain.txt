@@ -1,2 +1,2 @@
-vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=android#WIFI
-vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@n2.fiprotected.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdn2.fiprotected.com&pbk=XBx1PANE_LKfrCRVCsu1LDwd2kywg7iDHW9tYEf2SQ0&type=tcp&headerType=none&fp=android#WHITELIST
+vless://4a1bd3a7-22e6-4ed0-add4-7ee824d8f54a@8.209.217.129:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=Ci03uVNJ34iSg-BSeOgrhTAeWcJExB5gQNuQVRY3a2Q&sni=www.logitech.com&sid=01b4986b50245272&fp=android#WIFI
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=chrome#WHITELIST
