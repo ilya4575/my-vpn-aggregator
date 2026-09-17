@@ -1,2 +1,2 @@
-vless://82c3dde8-a338-4a6b-93d5-1ffa1b0b2217@sub.aimobix.online:8080?security=reality&encryption=none&pbk=5uSfe3jH6d6xQoJCjek0LlN3bcU8LkJOnSQKClq3jkc&headerType=none&fp=chrome&spx=/ebd2b3d1b743873&type=tcp&sni=c.s-microsoft.com&sid=d8db#WIFI
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@104.171.133.61:24443?type=grpc&security=reality&pbk=s2uiu3GQA2SlZzsr86Z5Dav97eAFTPf7Nvr-zqzzRgg&sid=72ccd4a7563c2953&sni=www.cloudflare.com&serviceName=9d30d49278&fp=qq#WHITELIST
+vless://2bf192f1-7d86-43a3-88b3-8f72b7eb5ad9@au1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&flow=xtls-rprx-vision&sid=e6a5a4a9115456de&pbk=RHLiKldLu3DONcQoX4Kjs7Xmd2K25ndVbw4pwxe45XE&encryption=none&fp=chrome#WIFI
+vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@94.198.217.201:22443?type=grpc&security=reality&pbk=V8llhEcbGI7Zqf52Ec0kryrdRv7lvLcKCjHe1Di23yw&sid=fdf9d63fcdd6be6a&sni=www.cloudflare.com&serviceName=f234981844&fp=android#WHITELIST
