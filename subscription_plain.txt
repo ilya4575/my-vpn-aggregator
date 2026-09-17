@@ -1,2 +1,2 @@
-vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@153.76.185.186:3090?type=grpc&security=none&encryption=none&serviceName=vless&mode=multi#WIFI
-vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.149:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=edge#WHITELIST
+vless://82c3dde8-a338-4a6b-93d5-1ffa1b0b2217@sub.aimobix.online:8080?security=reality&encryption=none&pbk=5uSfe3jH6d6xQoJCjek0LlN3bcU8LkJOnSQKClq3jkc&headerType=none&fp=chrome&spx=/ebd2b3d1b743873&type=tcp&sni=c.s-microsoft.com&sid=d8db#WIFI
+vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@104.171.133.61:24443?type=grpc&security=reality&pbk=s2uiu3GQA2SlZzsr86Z5Dav97eAFTPf7Nvr-zqzzRgg&sid=72ccd4a7563c2953&sni=www.cloudflare.com&serviceName=9d30d49278&fp=qq#WHITELIST
