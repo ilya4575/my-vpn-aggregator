@@ -1,2 +1,2 @@
-vless://2bf192f1-7d86-43a3-88b3-8f72b7eb5ad9@au1.gsafevpnapi.com:20270?security=reality&type=tcp&sni=www.yahoo.com&flow=xtls-rprx-vision&sid=e6a5a4a9115456de&pbk=RHLiKldLu3DONcQoX4Kjs7Xmd2K25ndVbw4pwxe45XE&encryption=none&fp=chrome#WIFI
-vless://66ac188b-bd8d-4218-b9ba-0bad0e152cd0@94.198.217.201:22443?type=grpc&security=reality&pbk=V8llhEcbGI7Zqf52Ec0kryrdRv7lvLcKCjHe1Di23yw&sid=fdf9d63fcdd6be6a&sni=www.cloudflare.com&serviceName=f234981844&fp=android#WHITELIST
+vless://167ed405-7de9-4bff-b1ea-6e3d49c76b0b@172.238.232.239:32833?security=reality&encryption=none&pbk=PaTDdYBrlh1xBixdI0igvRRkf0vnUwMRzi-4oDyfS20&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=a0a305ccc8e94aa8&fp=android#WIFI
+vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@n2.fiprotected.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=cdn2.fiprotected.com&pbk=XBx1PANE_LKfrCRVCsu1LDwd2kywg7iDHW9tYEf2SQ0&type=tcp&headerType=none&fp=android#WHITELIST
