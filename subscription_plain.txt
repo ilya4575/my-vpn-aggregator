@@ -1,2 +1,2 @@
-vless://4a1bd3a7-22e6-4ed0-add4-7ee824d8f54a@8.209.217.129:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=Ci03uVNJ34iSg-BSeOgrhTAeWcJExB5gQNuQVRY3a2Q&sni=www.logitech.com&sid=01b4986b50245272&fp=android#WIFI
-vless://3d53970b-419b-4a27-87b5-e9c99bb02eca@31.76.34.100:443?encryption=none&flow=xtls-rprx-vision&pbk=nY7HQ2YzzXRZd2PJgWS7mPKG-5iXuIBIEl_V-OXmg0c&security=reality&sni=cdn3.ndprotected.com&type=tcp&fp=chrome#WHITELIST
+vless://25fbd2b5-3263-4bae-a7e5-a2bd4b679424@188.137.251.183:51053?security=reality&encryption=none&pbk=uRsgB9Pp5QwwMS7cmv6KSUVSS0Iz0QAXrI6qQaZUTAI&headerType=&spx=%2Fb2803566c872b8a&type=tcp&sni=play-apps-features.googleusercontent.com&sid=4feec2&fp=android#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9872?type=grpc&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&encryption=none&fp=chrome#WHITELIST
