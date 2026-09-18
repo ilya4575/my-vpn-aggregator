@@ -1,2 +1,2 @@
-vless://abca037b-bee5-41cc-a888-0668e4c66176@bgr-01.node.lumixnet.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=bgr-01.node.lumixnet.com&pbk=vEXgvoW9iQo6iiKT71cNt1CC3cAB4IWswAn-cScDz1A&sid=bd8a588cebc3395a&type=tcp&fp=android#WIFI
-vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&headerType=none&security=reality&encryption=none&sni=s3-m.perecmusic.ru&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&spx=%2F&flow=xtls-rprx-vision&fp=android#WHITELIST
+vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&fp=android#WIFI
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.30:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=android#WHITELIST
