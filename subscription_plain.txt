@@ -1,2 +1,2 @@
-vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.87.244.111:443/?type=tcp&encryption=none&flow=&sni=www.cloudflare.com&security=reality&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&fp=android#WIFI
-vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@82.146.56.30:443?encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc&fp=android#WHITELIST
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@estomin1.vodniki.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=estomin1.vodniki.monster&fp=random&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&sid=d98e7afec9c0c359&spx=%2F&type=tcp#WIFI
+vless://8f9c5260-9456-472b-8ee2-444500ba6cab@rout.snappycore.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=rout.snappycore.com&pbk=SCuasCPva4lPGu-QRP955zZB8f6i7ydHBQh6bsSlrgo&sid=3d87c490ddd41305&spx=%2F&fp=edge#WHITELIST
