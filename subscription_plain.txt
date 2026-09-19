@@ -1,1 +1,2 @@
-vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@popolop.mervi.icu:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=GhOEyam40TU9q00D24U_Psl4bPGTheUMOG5U8UR72A4&security=reality&sid=e07d62c8ec5de3ca&sni=popolop.mervi.icu&type=tcp#WIFI
+vless://014829b8-ca93-4969-ba9e-56c07d490312@www.glassdoor.com:8080?encryption=none&security=none&allowInsecure=1&type=ws&path=%2F&host=worker-twilight-mud-9d1c.8h4rixz9.workers.dev&ed=2048#WIFI
+vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org&type=tcp&fp=chrome#WHITELIST
