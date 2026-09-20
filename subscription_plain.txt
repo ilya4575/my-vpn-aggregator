@@ -1,2 +1,2 @@
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@2.27.210.32:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=latisha.loozerp.wiki&type=tcp&fp=chrome#WIFI
-vless://bff40540-8a37-4760-a167-ac20f90246eb@95.129.236.239:443?encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=android#WHITELIST
+vless://0d4cb711-c030-4f13-adf5-6a72dab4121c@47.80.62.71:443?security=reality&encryption=none&pbk=AT4sr3XkuNa7QewDoScx7NnPTCa-Z6o_7ccPgivVDSQ&host=www.nvidia.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=0b674631d5fc6b93#WIFI
+vless://9d914cd8-1bca-4db0-907b-e39beb9564fc@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=android#WHITELIST
