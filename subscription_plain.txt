@@ -1,2 +1,2 @@
-vless://014829b8-ca93-4969-ba9e-56c07d490312@www.glassdoor.com:8080?encryption=none&security=none&allowInsecure=1&type=ws&path=%2F&host=worker-twilight-mud-9d1c.8h4rixz9.workers.dev&ed=2048#WIFI
-vless://Fluffy_VPN-zKZUa4Ie@72.56.38.83:443?encryption=none&flow=xtls-rprx-vision&pbk=ZzIetLcQtENjIXQ9XZqFo8p3J81p8Emj0wi51Uy07n8&security=reality&sni=absolute-disaster.org&type=tcp&fp=chrome#WHITELIST
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@2.27.210.32:443?encryption=none&flow=xtls-rprx-vision&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&security=reality&sid=ff776ff77be48b88&sni=latisha.loozerp.wiki&type=tcp&fp=chrome#WIFI
+vless://bff40540-8a37-4760-a167-ac20f90246eb@95.129.236.239:443?encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=android#WHITELIST
