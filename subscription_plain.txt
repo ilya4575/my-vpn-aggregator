@@ -1,2 +1,2 @@
-vless://0d4cb711-c030-4f13-adf5-6a72dab4121c@47.80.62.71:443?security=reality&encryption=none&pbk=AT4sr3XkuNa7QewDoScx7NnPTCa-Z6o_7ccPgivVDSQ&host=www.nvidia.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=0b674631d5fc6b93#WIFI
-vless://9d914cd8-1bca-4db0-907b-e39beb9564fc@95.129.236.239:443?alpn=http%2F1.1&encryption=none&host=wiki.solarinfra.net&path=%2Fstream%2F615428%2Fsocket&security=tls&sni=wiki.solarinfra.net&type=ws&fp=android#WHITELIST
+vless://a4846a6c-163f-4b12-a99f-378d814e5e09@172.239.239.53:22746?encryption=none&flow=xtls-rprx-vision&pbk=B6bPTxNaLqqoUTuNggzTBP0pPxJEqE_Bd_Ob27MPvgU&security=reality&sid=d9fd4fa80238cd05&sni=www.intel.com&type=tcp#WIFI
+vless://e121b564-fade-44aa-ba15-aa46538efaca@188.225.33.173:5001?encryption=none&type=grpc&security=tls&sni=rus.centermass.net&serviceName=media.playback.v1.SessionGateway&fp=android#WHITELIST
