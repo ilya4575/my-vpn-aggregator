@@ -1,1 +1,2 @@
-vless://68662961-6c5f-48c1-b807-6398f3287dbc@188.114.97.6:8080?encryption=none&type=ws&host=polished-meadow-2ac5.228-76d.workers.dev&path=%2F&security=none#WIFI
+vless://05bcfc5d-3884-4f6b-ab95-1d7f6f8bf300@176.65.151.205:2087?headerType=none#WIFI
+vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#WHITELIST
