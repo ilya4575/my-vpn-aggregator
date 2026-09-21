@@ -1,2 +1,2 @@
-vless://05bcfc5d-3884-4f6b-ab95-1d7f6f8bf300@176.65.151.205:2087?headerType=none#WIFI
-vless://00d4010a-ac43-48a4-a790-50a50599e616@95.163.155.137:31585?encryption=none&security=none&type=raw#WHITELIST
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.253:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=uk-mori-new.failspace.top&type=tcp&fp=edge#WIFI
+vless://add59713-f5c6-4442-83a3-6bc9281f5c90@br.dexlen.cc:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=br.dexlen.cc&pbk=_NcF141EQLSjJU5JxyZXjH6NCi5eb_BOes9E_unBjRc&flow=xtls-rprx-vision&fp=android#WHITELIST
