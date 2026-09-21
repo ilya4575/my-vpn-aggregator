@@ -1,2 +1,2 @@
-vless://0d4cb711-c030-4f13-adf5-6a72dab4121c@47.80.62.71:443?type=tcp&security=reality&sni=www.nvidia.com&flow=xtls-rprx-vision&pbk=AT4sr3XkuNa7QewDoScx7NnPTCa-Z6o_7ccPgivVDSQ&sid=0b674631d5fc6b93&fp=firefox#WIFI
-vless://82719790-ff61-4284-8668-ba140a4d6cbd@89.125.214.154:8444?flow=&type=grpc&mode=gun&serviceName=grpc-de-grpc&security=reality&sni=vk.ru&pbk=O4ymaaoTi3woCs3MWktyrXKhlU5RCK1Wo0G_T0u_Vi4&sid=5db60b1f&fp=chrome#WHITELIST
+vless://17ab31f7-c021-4aec-83b2-ab48de8886bd@xjpjus.jiedddym.com:14352?type=tcp&headerType=none&security=reality&encryption=none&sni=www.lamer.com.hk&fp=chrome&pbk=AzOs0Mh5_Ax-CrvFYTYXAp78syFjgkotED2cKO_kbyw&sid=461b0192ec23b6&spx=%2F&flow=xtls-rprx-vision#WIFI
+vless://cdd6bfce-781a-4454-b7d5-4778abb5c24f@posa6.api3-max.ru:443?security=tls&flow=xtls-rprx-vision&sni=posa6.api3-max.ru&fp=android#WHITELIST
