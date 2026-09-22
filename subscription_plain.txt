@@ -1,2 +1,2 @@
-vless://38eb3e71-4349-4bd6-9baf-9740e1896495@bel.accessgate.link:8080?security=reality&encryption=none&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=unpkg.com&sid=b0d8c9a285c70f6f&fp=chrome#WIFI
-vless://a76f6959-7d88-40c5-8984-4d888aa42389@89.110.96.166:3105?encryption=none&flow=xtls-rprx-vision&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&security=reality&sid=11f303a9ff001d7c&sni=3deb05.relay-edge.net&type=tcp&fp=chrome#WHITELIST
+vless://974f2c7e-a292-4207-8315-ef4151bdca41@2.26.173.27:443?encryption=none&type=tcp&security=reality&sni=poland.travel&flow=xtls-rprx-vision&headerType=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&allowInsecure=1&fp=android#WIFI
+vless://a76f6959-7d88-40c5-8984-4d888aa42389@90.156.218.106:2110/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=3deb05.relay-edge.net&security=reality&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&sid=11f303a9ff001d7c&fp=edge#WHITELIST
