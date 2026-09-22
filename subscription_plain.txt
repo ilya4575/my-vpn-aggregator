@@ -1,2 +1,2 @@
-vless://974f2c7e-a292-4207-8315-ef4151bdca41@2.26.173.27:443?encryption=none&type=tcp&security=reality&sni=poland.travel&flow=xtls-rprx-vision&headerType=none&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&allowInsecure=1&fp=android#WIFI
-vless://a76f6959-7d88-40c5-8984-4d888aa42389@90.156.218.106:2110/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=3deb05.relay-edge.net&security=reality&pbk=4YFpLhV9HbwlCXzvCL8EfvYe-V-VCuXZIaOWS11lKXI&sid=11f303a9ff001d7c&fp=edge#WHITELIST
+vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=chrome#WIFI
+vless://765a278f-f2d8-403a-9ff1-9b2362dcf8ca@ru1.nodalider.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ign.com&pbk=WxMb9YLrCKNN2tHyw-D3l5Xa-YB5XfNWZ_f8McJyPhI&sid=8cdf02c6071ffaf9&flow=xtls-rprx-vision&fp=android#WHITELIST
