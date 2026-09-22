@@ -1,2 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.227.253:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=uk-mori-new.failspace.top&type=tcp&fp=edge#WIFI
-vless://add59713-f5c6-4442-83a3-6bc9281f5c90@br.dexlen.cc:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=br.dexlen.cc&pbk=_NcF141EQLSjJU5JxyZXjH6NCi5eb_BOes9E_unBjRc&flow=xtls-rprx-vision&fp=android#WHITELIST
+vless://8871f4a9-cb90-4159-b3d0-84b90efdd3ca@68.64.183.164:14163?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.paypal.com&pbk=40j_uKu51A06ECDlinwC6Q7h7ZPWs9Bkv24_EZdcvnQ&type=tcp&fp=android#WIFI
+vless://8057eabc-921d-0001-9acb-80ccc6b48379@201.24.50.94:443?type=grpc&security=reality&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&sni=kerbal.mafioznik.xyz&mode=multi&serviceName=Sosat&fp=android#WHITELIST
