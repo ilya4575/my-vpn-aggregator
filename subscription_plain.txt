@@ -1,2 +1,2 @@
-vless://5e517b94-e207-47ee-be3c-3020a57594e8@34.39.174.220:443?encryption=none&pbk=pCImwRkTjx8OIUiu1WFelZQFt1p3Q0lUoPbvjVq8GTs&security=reality&sid=b62a4da6cd1c4dd6&sni=www.cloudflare.com&type=tcp&fp=chrome#WIFI
-vless://765a278f-f2d8-403a-9ff1-9b2362dcf8ca@ru1.nodalider.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.ign.com&pbk=WxMb9YLrCKNN2tHyw-D3l5Xa-YB5XfNWZ_f8McJyPhI&sid=8cdf02c6071ffaf9&flow=xtls-rprx-vision&fp=android#WHITELIST
+vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#WIFI
+vless://d6b004da-8166-40cc-988e-5abf63d2b8c0@185.154.194.196:443?encryption=none&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&security=reality&sid=fda83f2787e6016d&sni=payeeclickerhalogen.berylcord.net&type=tcp&fp=edge#WHITELIST
