@@ -1,1 +1,2 @@
-vless://1d2656d5-89b9-408a-8ecf-0d804f056abc@153.76.185.81:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI
+vless://d929e993-8053-488a-8a22-0ae09f706a2e@171.22.114.98:443?encryption=none&security=reality&sni=www.goo.gl&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&sid=ef7db38f625526f5&type=tcp&headerType=none&fp=chrome#WIFI
+vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=diffoscope.com&type=tcp&fp=chrome#WHITELIST
