@@ -1,2 +1,2 @@
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@141.227.137.177:2053?security=tls&sni=kkkk-xcd.pages.dev&type=ws&headerType=none&host=kkkk-xcd.pages.dev&path=%2F%3Fed%3D2048&fp=chrome#WIFI
-vless://d6b004da-8166-40cc-988e-5abf63d2b8c0@185.154.194.196:443?encryption=none&flow=xtls-rprx-vision&pbk=QPfM5knVgOkIykx2AC8S1MvkO_x-T9xMRYJdkF9aEng&security=reality&sid=fda83f2787e6016d&sni=payeeclickerhalogen.berylcord.net&type=tcp&fp=edge#WHITELIST
+vless://50cbda48-00ce-4688-8b3d-0177ab8f177c@35.198.230.134:443?security=reality&pbk=GqyMciP_v8rJZKLJd-EgzQmWbi_Qx_c_n1f-nlPkaEA&sid=b1fef7a9181ea31d&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=chrome#WIFI
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=qq#WHITELIST
