@@ -1,2 +1,2 @@
-vless://ac0c2945-b758-11f1-8181-54db13ea7d40@143.246.196.122:443?encryption=none&flow=xtls-rprx-vision&pbk=wSjV1yR_rhDUdoNbM9zIXNGLASLp9RorComnyoayo2c&security=reality&sni=www.blocket.se&type=tcp&fp=chrome#WIFI
-vless://57a437c4-7eed-03f2-bf50-5e4e35f71deb@200.169.179.84:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&pbk=XiB5ulLWLPO1VWI6RsDsTYj_8qM8KMkNMR1pKy9vhDM&sid=840e66c1743e80bf&allowInsecure=1&fp=android#WHITELIST
+vless://fed5c436-f9aa-4a60-b25f-876052fdf578@94.249.180.45:443?encryption=none&type=tcp&security=reality&sni=pl.spbculture.org&flow=xtls-rprx-vision&headerType=none&pbk=tihB0D9qSyy2YITcQ33I6vqspKe_riFJYXzJZaHbs1M&allowInsecure=1&fp=android#WIFI
+vless://0101cf76-c6ed-4f44-bb73-7c4063d6b56d@213.171.30.97:25565?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=iv.kommersant.ru&pbk=oRpD-G1qeIyRehwSKMHbJSHlt9_lVFK5ZbqBEnnzT2o&sid=07ac3cb8d96b2b5a&spx=%2F&fp=firefox#WHITELIST
