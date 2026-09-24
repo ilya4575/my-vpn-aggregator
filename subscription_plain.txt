@@ -1,2 +1,2 @@
-vless://d929e993-8053-488a-8a22-0ae09f706a2e@171.22.114.98:443?encryption=none&security=reality&sni=www.goo.gl&pbk=3Qh9roHIRJtLEM-gV_hudQrY6wPK_Dc3ePVtWLGqYho&sid=ef7db38f625526f5&type=tcp&headerType=none&fp=chrome#WIFI
-vless://365de9e9-ba29-0008-af2d-766f9638e3be@5.42.123.9:443?encryption=none&flow=xtls-rprx-vision&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&security=reality&sid=1c3e8241a8743df9&sni=diffoscope.com&type=tcp&fp=chrome#WHITELIST
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@gerwai1488.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=gerwai1488.vvzzkontaktezzvv.garden&pbk=EYfpgja4VjpLUnWHtDJQ1XZk6xL5j4rXwf80Sw6keV0&sid=0c13e8822e7f58aa&spx=%2F&fp=chrome#WIFI
+vless://a72ca3b6-1a26-47f5-aca3-039bb5539eb4@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4a7b1c8d&sni=s3-m.perecmusic.ru&fp=android#WHITELIST
