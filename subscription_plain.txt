@@ -1,2 +1,1 @@
-vless://fed5c436-f9aa-4a60-b25f-876052fdf578@94.249.180.45:443?encryption=none&type=tcp&security=reality&sni=pl.spbculture.org&flow=xtls-rprx-vision&headerType=none&pbk=tihB0D9qSyy2YITcQ33I6vqspKe_riFJYXzJZaHbs1M&allowInsecure=1&fp=android#WIFI
-vless://0101cf76-c6ed-4f44-bb73-7c4063d6b56d@213.171.30.97:25565?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=iv.kommersant.ru&pbk=oRpD-G1qeIyRehwSKMHbJSHlt9_lVFK5ZbqBEnnzT2o&sid=07ac3cb8d96b2b5a&spx=%2F&fp=firefox#WHITELIST
+vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?encryption=none&security=reality&sni=download.amd.com&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&type=grpc&serviceName=Sosat&mode=multi&fp=edge#WHITELIST
