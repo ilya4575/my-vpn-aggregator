@@ -1,1 +1,2 @@
-vless://8057eabc-921d-0003-9acb-80ccc6b48379@201.24.50.94:443?encryption=none&security=reality&sni=download.amd.com&pbk=wG3BS0H2EKpY2tpv9bWipTmafwIdXuUXPAZCpr1eZ0M&type=grpc&serviceName=Sosat&mode=multi&fp=edge#WHITELIST
+vless://a4c6bab6-bd83-4b72-8c78-99e96f40cde3@47.253.144.114:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=yEpPLsSy8aCXkQ4wzc9t38gQACipc_k54upD9fJj5y4&sid=4679f07417e9feb4&allowInsecure=1&fp=android#WIFI
+vless://123b9b6b-af31-4b0b-819e-e6082a3cb571@46.8.209.137:8444?authority=ru1.grg.digital&encryption=none&mode=gun&pbk=2OrOlV8z3AuIUnkvGPikI2wFgIgLvx8LP-_GEA1qnVA&security=reality&serviceName=google.storage.v2.Storage&sni=ru1.grg.digital&type=grpc&fp=edge#WHITELIST
