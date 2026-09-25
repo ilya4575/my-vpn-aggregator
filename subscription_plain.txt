@@ -1,2 +1,2 @@
-vless://40ad5690-3338-4fe8-88d7-9982d2c91848@8.216.23.104:443?security=reality&encryption=none&pbk=o1nqe8Hf006Nn3umC03JPgGzGR3sSPT62vG3iRkOyzI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=239b335e0f3f2126&fp=chrome#WIFI
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.138:443?encryption=none&path=%2Fe9ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=android#WHITELIST
+vless://2311c094-1143-47ec-9469-c9761d0bb718@153.76.185.91:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#WHITELIST
