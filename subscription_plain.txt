@@ -1,2 +1,2 @@
-vless://47b63e55-a4e4-43ce-97dc-946e6a26971d@5.181.201.44:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bababoy.karp1pdd.life&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e&allowInsecure=1&fp=ios#WIFI
-vless://aa984fdd-2cd4-4e67-93cc-74ff7a0fb550@213.171.12.114:2045?encryption=none&security=none&type=tcp&headerType=none#WHITELIST
+vless://1e255ca5-93b1-4952-a838-0783dfc034d8@47.90.153.88:443?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=QtYyp41YbDij6nygTaPPpqXqEGzDD3wYFI3YlfTjfBo&sid=6b85179e&fp=chrome#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel&fp=chrome#WHITELIST
