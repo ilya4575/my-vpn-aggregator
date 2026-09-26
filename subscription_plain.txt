@@ -1,2 +1,2 @@
-vless://2311c094-1143-47ec-9469-c9761d0bb718@153.76.185.91:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI
-vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=chrome#WHITELIST
+vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@13.143.166.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=unpkg.com&allowInsecure=1&security=reality&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&sid=408c85938839e89f&fp=android#WIFI
+vless://54127949-5b65-4600-a976-326c99cfc794@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&sni=s3-m.perecmusic.ru&fp=ios#WHITELIST
