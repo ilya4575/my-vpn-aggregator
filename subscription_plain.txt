@@ -1,2 +1,2 @@
-vless://0a975d79-6930-4861-a105-dc50793456de@132.243.166.106:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=blog.chatbaza.fun&pbk=TCuyY9xiZLVJVLzTmXvX9pqcWgPOfb7YfKlYeGB1umY&sid=33e3ae5cce550a0a&allowInsecure=1&fp=android#WIFI
-vless://ec458103-a0f7-4db2-a538-97903be50652@176.122.25.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=89186167&spx=%2F&fp=chrome#WHITELIST
+vless://47b63e55-a4e4-43ce-97dc-946e6a26971d@5.181.201.44:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bababoy.karp1pdd.life&pbk=98MNvJC4t0ZjK_xHlQjOx2WfLfAPluNDb71MzS9sPT8&sid=38018dde3e27335e&allowInsecure=1&fp=ios#WIFI
+vless://aa984fdd-2cd4-4e67-93cc-74ff7a0fb550@213.171.12.114:2045?encryption=none&security=none&type=tcp&headerType=none#WHITELIST
