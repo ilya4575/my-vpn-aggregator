@@ -1,2 +1,2 @@
-vless://61da8f4b-6ab1-4ca7-bae0-1cec4f9be2f8@13.143.166.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=unpkg.com&allowInsecure=1&security=reality&pbk=V-cWjK_GZ0PTJ3wnUHgwey_dNWI6_QNXsC9CdmA0mVI&sid=408c85938839e89f&fp=android#WIFI
-vless://54127949-5b65-4600-a976-326c99cfc794@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&sni=s3-m.perecmusic.ru&fp=ios#WHITELIST
+vless://0a975d79-6930-4861-a105-dc50793456de@132.243.166.106:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=blog.chatbaza.fun&pbk=TCuyY9xiZLVJVLzTmXvX9pqcWgPOfb7YfKlYeGB1umY&sid=33e3ae5cce550a0a&allowInsecure=1&fp=android#WIFI
+vless://ec458103-a0f7-4db2-a538-97903be50652@176.122.25.48:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=eh.vk.ru&pbk=JH1FteoTVW6inmHDUgZATEXXxctafAXV2i7AFq352kc&sid=89186167&spx=%2F&fp=chrome#WHITELIST
