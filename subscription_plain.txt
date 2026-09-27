@@ -1,2 +1,2 @@
-vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=ios#WIFI
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@assets-nl3.pleiades.codes:443?encryption=none&security=tls&sni=assets-nl3.pleiades.codes&type=grpc&serviceName=cdn.v1.AssetService&fp=firefox#WIFI
 vless://6f73611a-bfd9-4712-9f33-fda2da70332a@201.51.4.39:443?security=tls&encryption=none&headerType=&type=tcp&flow=xtls-rprx-vision&sni=freevk.cryposikel.ru&fp=chrome#WHITELIST
