@@ -1,2 +1,2 @@
-vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@188.114.97.6:8080?encryption=none&type=ws&host=ancient-tooth-af89.500-ba0.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#WIFI
-vless://68d89911-b92d-46fe-9007-3645c3b285f0@194.55.244.182:28447?encryption=none&host=pl.sparxiecn.com&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=android#WHITELIST
+vless://0dca2cfe-98eb-4f9d-9a47-cf87510c558b@72.4.65.116:443?encryption=none&security=tls&serviceName=cdn.v1.AssetService&sni=assets-de2.pleiades.codes&type=grpc&fp=ios#WIFI
+vless://6f73611a-bfd9-4712-9f33-fda2da70332a@201.51.4.39:443?security=tls&encryption=none&headerType=&type=tcp&flow=xtls-rprx-vision&sni=freevk.cryposikel.ru&fp=chrome#WHITELIST
