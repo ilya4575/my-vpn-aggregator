@@ -1,2 +1,2 @@
-vless://0a975d79-6930-4861-a105-dc50793456de@2.56.123.131:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=contact.yump.online&fp=chrome&pbk=wDAQ_iQ_vv6lQiB9nCxIJviEhARWOQOPyhzos8EJW3o&sid=9da47879658f9f25&allowInsecure=1#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.167.90:9881?encryption=none&security=reality&sni=dl.google.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&fp=random#WHITELIST
+vless://34cedc35-a520-4a8f-8cb6-d9afba04751b@188.114.97.6:8080?encryption=none&type=ws&host=ancient-tooth-af89.500-ba0.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none#WIFI
+vless://68d89911-b92d-46fe-9007-3645c3b285f0@194.55.244.182:28447?encryption=none&host=pl.sparxiecn.com&path=%2Flovelive&security=tls&sni=pl.sparxiecn.com&type=ws&fp=android#WHITELIST
