@@ -1,2 +1,1 @@
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&sni=buylite.music.apple.com&fp=android#WIFI
-vless://1b201db0-b373-455a-8ccd-fd624aaef8d3@91.240.87.237:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&sid=00000000&sni=fiae3.maxtelemost.com&fp=android#WHITELIST
+vless://e3e89245-f909-44c5-b298-5cbe5918f27a@153.76.185.156:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#WIFI
