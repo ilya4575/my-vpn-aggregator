@@ -1,2 +1,2 @@
-vless://042d2d08-2973-5d10-97ad-3b75f16bbe54@212.147.245.198:443?encryption=none&type=tcp&security=reality&sni=online.1c.ru&flow=xtls-rprx-vision&pbk=xwLNHc6jBOg5Ddr1LezwY7I45nP485Qfu1YJXMKwVnI&sid=330a464a00000000&spx=%2F&allowInsecure=1#WIFI
-vless://1b201db0-b373-455a-8ccd-fd624aaef8d3@91.240.87.237:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=J0SK1ic3YJvP1gac5m3KSVaUuK_bxFtqz0fh0uEdEw4&sid=00000000&sni=fiae3.maxtelemost.com&fp=chrome#WHITELIST
+vless://2412bd96-925b-43f2-81d1-0ed4f0793699@91.132.160.209:443?security=reality&encryption=none&pbk=9XSdNkmBhBszLYoODqMrm7r_JRur2PRbzF9T1Uf2AV0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdn.apache.org&sid=f1004027e382c2fa#WIFI
+vless://10394279-283c-4ab8-8529-f1e0a4c61bc8@45.93.201.119:443?type=grpc&security=reality&pbk=C6nh6hqFTbtizgSH8vGmw2XUxsQAbAW3jPylpgGvfl4&sid=6f3c1b8e5d2a4f7c&sni=vir2albridge.com&serviceName=moktana.net.v1.StreamService&fp=android#WHITELIST
