@@ -1,2 +1,2 @@
-vless://7bc54bcc-2557-475b-8d8a-1c85cba882da@pl-cdn.fireflycloud.shop:443?security=reality&encryption=none&pbk=dUWeioROs0savXrcoWbUzsETfAHUT1ed1SdKFrQwF3s&headerType=none&spx=%2F8aabb3715b98aa8&type=tcp&sni=pl.fireflycloud.shop&sid=649777a80e8c7073&fp=android#WIFI
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@79.137.192.2:443?security=reality&encryption=none&pbk=zcA1E7_aUxhHP1B4po52NeviW16smzEqcyb2qiQYaTc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.cloudflare.steamstatic.com&fp=chrome#WHITELIST
+vless://54127949-5b65-4600-a976-326c99cfc794@200.169.183.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&sni=s3-m.perecmusic.ru#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.161.222:9892?encryption=none&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sni=dl.google.com&type=grpc#WHITELIST
