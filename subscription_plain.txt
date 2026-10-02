@@ -1,2 +1,2 @@
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@fr.api-music-fa.com:2053?type=ws&security=tls&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&sni=fr.api-music-fa.com&fp=chrome#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.109.105:9830?serviceName=grpc-tunnel&type=grpc&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&sid=aa&sni=dl.google.com&encryption=none&fp=ios#WHITELIST
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.90:2053?type=ws&security=tls&sni=wss.zazazuza.ru&alpn=http%2F1.1&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&fp=android#WIFI
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@188.225.25.22:443?type=tcp&headerType=none&security=reality&encryption=none&pbk=EGtADikSkaFxgD3pnzm2qqM299GfxMV7ZJs1_NewK30&flow=xtls-rprx-vision&fp=chrome#WHITELIST
