@@ -1,2 +1,2 @@
 vless://0f4081e7-612b-425f-8def-eebf144aedba@2.27.160.4:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=delta.cloudserverix.com&sid=9e15546f267baa64#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.109.109.105:9830?encryption=none&security=reality&sni=dl.google.com&fp=random&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&type=grpc&serviceName=grpc-tunnel#WHITELIST
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.177.72:9844?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&type=grpc&fp=chrome#WHITELIST
