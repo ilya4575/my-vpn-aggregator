@@ -1,2 +1,2 @@
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&headerType=none&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&security=reality&sid=a73f0410d728c823&sni=www.samsung.com&spx=%2F&type=tcp&fp=android#WIFI
-vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?type=tcp&headerType=none&security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&flow=xtls-rprx-vision&fp=edge#WHITELIST
+vless://454431fc-71e2-42b1-b375-5b55dd06666a@185.242.247.44:443?encryption=none&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp&fp=chrome#WIFI
+vless://4643976f-85fa-40cf-9e58-ea28b50f253b@37.139.42.225:7448?security=reality&encryption=none&pbk=V-wRiXvhBx01utmXJbrThJ_DE4tNJfK6mnzo9EB3fVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#WHITELIST
