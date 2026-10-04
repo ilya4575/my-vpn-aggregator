@@ -1,2 +1,2 @@
-vless://4b21fbc7-00c2-4665-9788-02153832f9e5@109.120.154.167:443?encryption=none&security=tls&sni=v2ray.aizgl.com&type=ws&path=%2Fxray-ws&host=v2ray.aizgl.com&fp=android#WIFI
-vless://afe8ca9b-dab3-4486-b5d3-8e84b74b8e03@91.218.231.130:443?encryption=none&flow=xtls-rprx-vision&pbk=maEcFG2CQupwOGLZQfCreUqukBqbcvog67-zVx9exB0&security=reality&sni=smartcaptcha.yandexcloud.net&type=raw&fp=chrome#WHITELIST
+vless://0afdcc75-e449-418d-8eac-c5b657363443@13.143.166.71:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=FuKGULeQ9xZMJN8hWz6J_49tDJKT9HA-nsAXOOVRmyM&sid=ff867ed245c73f43&allowInsecure=1#WIFI
+vless://258ea6ce-8488-4560-bfef-fea2f8bb8caf@188.225.78.141:443?encryption=none&flow=xtls-rprx-vision&pbk=q7-UiP5VTNSa_KKMZV62HAND6cudj8evyGBTHl3jlTY&security=reality&sid=6ecafcd5a84ae6ad&sni=max.ru&type=tcp&fp=android#WHITELIST
