@@ -1,2 +1,2 @@
-vless://0ab2bb4f-c8ad-4c52-a94f-7a69c71d76f5@e7q.internet-booster.online:2443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=AuLWE8R3WD4DwnDxVHgqEcNjyge1btt5PdaUUArdCVk&sid=2b03d7853fc8faa6&type=tcp#WIFI
-vless://65616081-1772-49d7-a793-42bc13d22f69@109.68.214.220:443?encryption=none&pbk=gS0qvWKumWcOVoAgf8SHt6Sm3tqpBw07c5sA_Clb1hg&security=reality&sni=ru-1-7.imnotgay.party&type=raw&fp=edge#WHITELIST
+vless://95909398-3902-495b-9670-63f1b13becde@2.26.54.13:2083?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=files.meridian-labs.net&pbk=dBvFkg2zny545Ws6H_LXKEohOYV2MW_zACRrRQE1IUg&sid=f9d89d4a&allowInsecure=1&fp=android#WIFI
+vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@155.212.187.222:8451?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8&fp=chrome#WHITELIST
