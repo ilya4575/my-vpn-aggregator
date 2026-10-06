@@ -1,2 +1,2 @@
-vless://9d672694-c146-422e-b3b5-3717a38a0fcc@8.47.69.0:2053/?type=ws&encryption=none&flow=&host=fr.api-music-fa.com&path=%2Fapi%2Fvoip%2Fupdates%2Fstatic%2Ffr2035&security=tls&sni=fr.api-music-fa.com&allowInsecure=0&insecure=0#WIFI
-vless://444623e9-f27d-487c-b7cc-436931967e79@188.130.209.216:443?security=reality&encryption=none&pbk=M7yPV6xLi9h6EevpqZfXLZBuxoey8kz1c6Bh0pK5fho&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=emaar.ru&sid=170ab9ced015571f&fp=android#WHITELIST
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&fp=ios&type=tcp&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823#WIFI
+vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@45.139.26.179:443?security=reality&encryption=none&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&type=grpc&serviceName=api&sni=ads.x5.ru&sid=15bcc0a77c3cacdf&fp=firefox#WHITELIST
