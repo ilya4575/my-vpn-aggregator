@@ -1,2 +1,2 @@
-vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?type=ws&security=tls&fp=firefox&sni=ssl.fastly.com&host=uol258ehdmsohzh.global.ssl.fastly.net#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.9:9830?encryption=none&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aa&sni=dl.google.com&type=grpc&fp=firefox#WHITELIST
+vless://31608e93-a701-4604-b8de-c55baa393937@199.232.239.239:443?type=ws&security=tls&sni=ssl.fastly.com&host=uol258ehdmsohzh.global.ssl.fastly.net&fp=android#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.169:9892?encryption=none&security=reality&sni=amd.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=ios#WHITELIST
