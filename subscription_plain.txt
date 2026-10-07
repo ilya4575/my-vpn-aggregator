@@ -1,2 +1,2 @@
-vless://5120e97f-10e6-4625-929f-9ebf2db8eed1@89.127.216.177:443?encryption=none&flow=xtls-rprx-vision&pbk=x2ek6lVjJumu6nwT9BvGzcsa6ocKVtWqD8lnxNOU8RA&security=reality&sid=87810942&sni=www.sony.co.uk&spx=%2FeGoAoJGHi1CwBlI&type=tcp&fp=android#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.169:9892?encryption=none&security=reality&sni=amd.com&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&serviceName=grpc-tunnel&fp=chrome#WHITELIST
+vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#WIFI
+vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.166:25481?encryption=none&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&type=grpc&fp=edge#WHITELIST
