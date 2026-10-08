@@ -1,2 +1,2 @@
-vless://b0fae3b7-02de-4002-b8ca-b7159fe33841@psf-3.weedly.top:80?encryption=none&security=none&type=ws&headerType=none&host=machinemag.ir#WIFI
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@sin-a-02.auuas.com:1891?type=tcp&security=reality&path=/&sni=www.npmjs.com&fp=qq&flow=xtls-rprx-vision&pbk=YJLHQBNzHQ7sOeKbj-EkHo1Ym0asUyZKxj4l_thzyGA&sid=8378f267#WIFI
 vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.166:25481?encryption=none&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&type=grpc&fp=edge#WHITELIST
