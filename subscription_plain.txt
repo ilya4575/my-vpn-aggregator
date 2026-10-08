@@ -1,2 +1,2 @@
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#WIFI
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.166:25481?encryption=none&security=reality&sni=www.bing.com&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&type=grpc&serviceName=8cb5baa18cd7&fp=safari#WHITELIST
+vless://745A6079-6A61-423D-BDD9-B344C1D26E62@kr2-r.link-t7.com:10047?type=grpc&security=reality&sni=s0.awsstatic.com&fp=chrome&alpn=http/1.1&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&serviceName=update#WIFI
+vless://d4df5295-7487-4c7a-b4d5-e3001a530cdb@194.187.122.123:443?security=reality&sni=piter-noda.wamster.ru&pbk=E2mgHYxv-_eSANTzP6-RHg-bByNrejsiVuLf15bY7Uo&sid=a3ea871e4ff324c9&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=qq#WHITELIST
