@@ -1,2 +1,2 @@
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#WIFI
-vless://4f466863-b6c5-4fdc-955e-7a601c18d89a@217.26.30.125:1443?security=reality&sni=yahoo.com&pbk=EuRD8QK-uL3uQqnQ_IC2Ybj7v8feXRxCiEaXYjhHx3c&type=grpc&encryption=none&fp=qq#WHITELIST
+vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@188.114.97.6:443?path=/pyip=ProxyIP.US.CMLiussss.net&security=tls&encryption=none&insecure=0&host=fragrant-surf-4797.496-345.workers.dev&type=ws&allowInsecure=0&sni=fragrant-surf-4797.496-345.workers.dev#WIFI
+vless://9ea8b000-58ce-005a-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=quatro.lmstream.org&type=raw&fp=firefox#WHITELIST
