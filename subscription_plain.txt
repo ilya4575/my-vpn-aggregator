@@ -1,2 +1,2 @@
-vless://745A6079-6A61-423D-BDD9-B344C1D26E62@kr2-r.link-t7.com:10047?type=grpc&security=reality&sni=s0.awsstatic.com&fp=chrome&alpn=http/1.1&pbk=wOu-BMrXvk9KX23JZrlpUlF4SMjDcejm0vNECdhy5xE&sid=686c0ef0&serviceName=update#WIFI
-vless://d4df5295-7487-4c7a-b4d5-e3001a530cdb@194.187.122.123:443?security=reality&sni=piter-noda.wamster.ru&pbk=E2mgHYxv-_eSANTzP6-RHg-bByNrejsiVuLf15bY7Uo&sid=a3ea871e4ff324c9&flow=xtls-rprx-vision&type=tcp&encryption=none&fp=qq#WHITELIST
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?&packet-encoding=xudp&sni=milo.rubinaz.xyz&type=tcp&headerType=none&host=milo.rubinaz.xyz&path=%2F#WIFI
+vless://4f466863-b6c5-4fdc-955e-7a601c18d89a@217.26.30.125:1443?security=reality&sni=yahoo.com&pbk=EuRD8QK-uL3uQqnQ_IC2Ybj7v8feXRxCiEaXYjhHx3c&type=grpc&encryption=none&fp=qq#WHITELIST
