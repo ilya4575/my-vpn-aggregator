@@ -1,2 +1,2 @@
-vless://645ea5d2-7d0a-4d66-940d-eefc2b84f4e9@188.114.97.6:443?path=/pyip=ProxyIP.US.CMLiussss.net&security=tls&encryption=none&insecure=0&host=fragrant-surf-4797.496-345.workers.dev&type=ws&allowInsecure=0&sni=fragrant-surf-4797.496-345.workers.dev#WIFI
-vless://9ea8b000-58ce-005a-b108-989dd4f248f1@31.131.251.17:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=quatro.lmstream.org&type=raw&fp=firefox#WHITELIST
+vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&security=tls&sni=free-server.techsonic.dev&fp=chrome&type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#WIFI
+vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&fp=android#WHITELIST
