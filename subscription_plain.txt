@@ -1,2 +1,2 @@
-vless://5a96c1fc-f167-44b9-9020-8f6867537d14@netherlands02.azotvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands02.azotvpn.xyz&pbk=zO-b851W_E3v78zw7eBPFMXqfqQpCcVRj5zC7JJ2VDA&sid=c5c4a13b259fbd4c&spx=%2F&type=tcp&fp=chrome#WIFI
-vless://d1004cfe-c279-e865-d865-71964dbdf85d@46.243.232.22:8443?type=ws&security=tls&sni=cdone.subsvdragontoo.online&host=cdone.subsvdragontoo.online&fp=chrome#WHITELIST
+vless://5a96c1fc-f167-44b9-9020-8f6867537d14@31.76.14.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands02.azotvpn.xyz&fp=random&pbk=zO-b851W_E3v78zw7eBPFMXqfqQpCcVRj5zC7JJ2VDA&sid=c5c4a13b259fbd4c&type=tcp#WIFI
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@91.215.43.248:443?encryption=none&host=my.kempekl.online&path=%2Fgateway%2Fv1%2Fws%2Fa64eb463966ba9c4bfd628f1de0362ae&security=tls&sni=my.kempekl.online&type=ws&fp=chrome#WHITELIST
