@@ -1,2 +1,2 @@
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?fp=chrome&host=test.keoplentuio.xyz&path=%2F&security=false&type=tcp#WIFI
-vless://b2d014aa-5c80-4a86-826d-a8d2f9fb1782@kedrovyi-bereg.online:443?encryption=none&security=tls&sni=kedrovyi-bereg.online&type=ws&path=%2Fcheckout%2Fstep%2FYF5ZiDr1AzTN&host=kedrovyi-bereg.online&fp=android#WHITELIST
+vless://5a96c1fc-f167-44b9-9020-8f6867537d14@netherlands02.azotvpn.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=netherlands02.azotvpn.xyz&pbk=zO-b851W_E3v78zw7eBPFMXqfqQpCcVRj5zC7JJ2VDA&sid=c5c4a13b259fbd4c&spx=%2F&type=tcp&fp=chrome#WIFI
+vless://d1004cfe-c279-e865-d865-71964dbdf85d@46.243.232.22:8443?type=ws&security=tls&sni=cdone.subsvdragontoo.online&host=cdone.subsvdragontoo.online&fp=chrome#WHITELIST
