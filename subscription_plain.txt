@@ -1,2 +1,2 @@
-vless://6e59d5c5-7aa3-4c36-a4c4-e3b899525ed2@139.162.27.96:2096?encryption=none&security=tls&sni=free-server.techsonic.dev&fp=chrome&type=ws&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#WIFI
-vless://2f9107cb-9af0-4c94-a89d-50437218e5fa@ap2.directly.chat:443?encryption=none&security=tls&sni=ap2.directly.chat&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ap2.directly.chat&path=%2Fmd%2F1&fp=android#WHITELIST
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?fp=chrome&host=test.keoplentuio.xyz&path=%2F&security=false&type=tcp#WIFI
+vless://b2d014aa-5c80-4a86-826d-a8d2f9fb1782@kedrovyi-bereg.online:443?encryption=none&security=tls&sni=kedrovyi-bereg.online&type=ws&path=%2Fcheckout%2Fstep%2FYF5ZiDr1AzTN&host=kedrovyi-bereg.online&fp=android#WHITELIST
