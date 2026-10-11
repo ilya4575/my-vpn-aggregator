@@ -1,2 +1,2 @@
-vless://8afeb33c-b686-43e9-a629-0d98f991ec28@144.172.65.72:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=f25sygANXTpzdc9YPCwkggwSmm3piA3BluSeHdfG-hg&sni=www.tradingview.com#WIFI
-vless://f13b36ac-3765-4458-8a4d-08575038c463@83.220.175.235:2096?encryption=none&fp=chrome&mode=gun&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#WHITELIST
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-01.auuas.com:1891?&security=reality&flow=xtls-rprx-vision&pbk=mKvw6P0pTdasFPgyT3d_rHJSJfA-aaCxV8krGByqQS0&sid=8378f267&fp=ios&sni=www.npmjs.com&type=tcp&headerType=none&host=www.npmjs.com&path=%2F#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.172:9889?type=grpc&security=reality&sni=dl.google.com&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aa&serviceName=grpc-tunnel&fp=chrome#WHITELIST
