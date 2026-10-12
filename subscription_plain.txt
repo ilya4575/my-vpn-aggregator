@@ -1,2 +1,2 @@
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?type=grpc&security=reality&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&sni=www.google.com&serviceName=grpc&fp=chrome#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@45.132.176.172:9889?type=grpc&security=reality&sni=dl.google.com&pbk=ycPIUcY6ci2yi7YA_OHc20e4gzxEdJTqpmeShxSuHRU&sid=aa&serviceName=grpc-tunnel&fp=chrome#WHITELIST
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&sni=buylite.music.apple.com&type=tcp&headerType=none&host=3696b38bsg.murphyweb.sbs&path=%2F&fp=ios#WIFI
+vless://b639a98b-2dc4-5cc4-a817-eaffdc4cbb88@185.147.26.218:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=jgFG50Yuw5A-La-S54Sge3vnkF3N0GVH6ZDXg15CbHg&sni=id.vk.com&sid=58a148ca1ae650b1&spx=%2F&fp=firefox#WHITELIST
