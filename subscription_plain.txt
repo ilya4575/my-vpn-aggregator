@@ -1,2 +1,2 @@
-vless://ace33fb8-c593-4b17-8f72-f3359b6e9638@zahvatpribaltovonline.vvzzkontaktezzvv.garden:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=zahvatpribaltovonline.vvzzkontaktezzvv.garden&pbk=r1MW0o1DsC6EEWN-KPKnoXszb1trxlKShRIgOpxqHBk&sid=d98e7afec9c0c359&fp=firefox&spx=/#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@85.208.85.54:9881?encryption=none&security=reality&sni=amd.com&fp=random&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aa&type=grpc&serviceName=grpc-tunnel#WHITELIST
+vless://ed0e05af-49ab-4ea8-a39c-634855811b03@8.6.112.0:443?encryption=none&security=tls&sni=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&fp=chrome&type=ws&host=wild-grass-1917.tmpduardoolfsonerluke15.workers.dev&path=%2F#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@82.202.137.34:9844?encryption=none&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabbccdd&type=grpc&serviceName=grpc-tunnel&fp=random#WHITELIST
