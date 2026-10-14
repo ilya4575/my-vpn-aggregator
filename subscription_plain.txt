@@ -1,2 +1,2 @@
-vless://XpnTeam-4@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#WIFI
-vless://3126e5b3-90dd-4ba4-b950-739ac88e59f8@ru.cdn2.vpnruss1.ru:443?type=ws&security=tls&encryption=none&path=%2F&fp=android#WHITELIST
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@b58e68t.lt1.h1clayd.click:443?type=tcp&headerType=none&security=reality&encryption=none&sni=b58e68t.lt1.h1clayd.click&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&sid=2301ac8aee8bf6d4&spx=%2F&fp=chrome#WIFI
+vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@46.243.232.167:20010?encryption=none&host=vod3.rucdncomp.pro&path=%2Fservice%2Fevents%2Fe296aaa797ab%2F&security=tls&sni=vod3.rucdncomp.pro&type=ws&fp=android#WHITELIST
