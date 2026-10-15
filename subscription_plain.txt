@@ -1,2 +1,2 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@www.zsu.gov.ua:443?sni=misaka.cndyw.ggff.net&type=ws&host=misaka.cndyw.ggff.net&path=/?ed=2560fp=chrome&security=tls#WIFI
-vless://a443d7bf-f506-46ce-b64d-cf8891c0a9f7@46.243.232.167:20010?type=ws&security=tls&encryption=none&path=%2Fservice%2Fevents%2Fe296aaa797ab%2F&host=vod3.rucdncomp.pro&sni=vod3.rucdncomp.pro&headerType=none&fp=chrome#WHITELIST
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&security=none&type=ws&host=178.172.227.124&path=%2Fvless&sni=178.172.227.124&fp=android#WIFI
+vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@45.133.151.186:25414?security=reality&pbk=KjcB2_xuklgTEHo_L_y3YdGdQoDgA91Yaa3YgRu_Iis&sid=609c2d15e86108cd&sni=www.icloud.com&fp=android#WHITELIST
