@@ -1,2 +1,2 @@
-vless://ef8c7169-87fc-49ad-be91-1f3984ab446d@mog.keyblack.site:8444?encryption=none&flow=xtls-rprx-vision&pbk=DQGwrxOgoiyBDrbdFUofP88FGtxHDA2duzNXKkyxaig&security=reality&sid=6ba85179e30d4fc2&sni=www.cloudflare.com&type=tcp&fp=chrome#WIFI
-vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediavolna.cc:443?mode=gun&security=tls&alpn=h2&encryption=none&insecure=0&type=grpc&serviceName=r7Kp4mN9tQ2v&allowInsecure=0&sni=api.mediavolna.cc&fp=chrome#WHITELIST
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@191.217.244.34:443?encryption=none&flow=xtls-rprx-vision&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&security=reality&sni=poland.travel&type=tcp&fp=chrome#WIFI
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?type=tcp&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediakaskad.cc&encryption=none&fp=firefox#WHITELIST
