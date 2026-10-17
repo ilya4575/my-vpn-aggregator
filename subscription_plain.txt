@@ -1,2 +1,2 @@
-vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@revers.bachidze.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=poland.travel&pbk=TIKEWdxQBblFGWMQmQWserNef8P1rqJCfCLLi-KB32s&allowInsecure=1#WIFI
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.167:25481?encryption=none&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&type=grpc&fp=chrome#WHITELIST
+vless://16188ecf-2dcd-40d7-898b-60461f125978@de3-allnet.onlinernet.ir:22000?security=reality&encryption=none&pbk=IffRRgkO2Kn06y1prY-NT2TfW-Ezm_RBi__F_jhKoSw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=connectivitycheck.android.com&sid=1b0fa065866978d2&fp=chrome#WIFI
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediakaskad.cc:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediakaskad.cc&type=tcp&fp=firefox#WHITELIST
