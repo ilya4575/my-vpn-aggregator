@@ -1,2 +1,2 @@
-vless://b940be1b-3998-45d2-bf7b-06e7b6c4987a@46.249.103.176:443?encryption=none&security=tls&sni=kkkk-8oc.pages.dev&fp=firefox&type=ws&path=%2F&host=kkkk-8oc.pages.dev#WIFI
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@glazatushi.yandex-api.com:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&sni=glazatushi.yandex-api.com&encryption=none&fp=chrome#WHITELIST
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?security=reality&flow=xtls-rprx-vision&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&sni=vextor.win&type=tcp&headerType=none&host=vextor.win&path=%2F&fp=ios#WIFI
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#WHITELIST
