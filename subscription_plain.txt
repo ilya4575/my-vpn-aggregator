@@ -1,2 +1,2 @@
-vless://XpnTeam-21@140.248.186.45:443?path=/&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#WIFI
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@45.133.151.167:25481/?type=grpc&encryption=none&flow=&serviceName=8cb5baa18cd7&sni=www.bing.com&security=reality&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&fp=safari#WHITELIST
+vless://0dbd877c-0246-4402-850a-140e60875c95@de9465.work.gd:443?security=reality&encryption=none&pbk=RsKkbNbhdvmf6VtNZslU_3yNrUcHFBLJSuJZNAZO6VE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.prizradar.by&sid=2d&fp=chrome#WIFI
+vless://aca886aa-9b51-4eb2-8d7a-12d6b89caf4d@188.225.18.165:443?encryption=none&host=nas-01.swaginozip.fun&path=%2Fapi%2F53d53ac3%2Fa7fa61%2F096357bebc62&security=tls&sni=nas-01.swaginozip.fun&type=ws&fp=edge#WHITELIST
