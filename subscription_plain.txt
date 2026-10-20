@@ -1,2 +1,2 @@
-vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ss-64.ecom-ai-search.com&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&sid=294cd0660fde9027&allowInsecure=1&fp=firefox#WIFI
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?security=reality&type=tcp&sni=www.samsung.com&sid=a73f0410d728c823&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&encryption=none&fp=android#WHITELIST
+vless://19b0841d-9166-43bf-87d9-3e501a3ee707@jrnkkm.de5.net:2053?flow=xtls-rprx-vision&pbk=xUzb0F3rZEL3AxSHOTx8y7WZHdwIvtlE9k3S19DAYE4&security=reality&sid=4f9e52a189&sni=www.mozilla.org&type=tcp&fp=android#WIFI
+vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@45.139.27.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.spbu.ru&pbk=2LWgemfg0df7tGt4icLbRG-Cz7QNPVr3g7xIdwbTTHQ&sid=caa05b44ba5b7b3d&fp=android#WHITELIST
