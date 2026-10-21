@@ -1,2 +1,2 @@
-vless://XpnTeam-31@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#WIFI
-vless://5c8950a3-2142-42c9-b414-fa34526ff25f@185.76.241.186:443?security=reality&encryption=none&pbk=NUjWUMNrcZKkvXmnK--E7wn_YyhEH6c-YOqjDMHWAxA&type=tcp&flow=xtls-rprx-vision&sni=ru-in-ind-4vp.movietop24.site&sid=686b3e179573a80a&fp=ios#WHITELIST
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=chrome#WIFI
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=firefox#WHITELIST
