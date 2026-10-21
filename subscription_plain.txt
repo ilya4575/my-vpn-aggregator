@@ -1,2 +1,2 @@
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@185.189.58.222:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#WIFI
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@45.139.27.9:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.spbu.ru&pbk=2LWgemfg0df7tGt4icLbRG-Cz7QNPVr3g7xIdwbTTHQ&sid=caa05b44ba5b7b3d&fp=chrome#WHITELIST
+vless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@194.58.109.206:8443?security=tls&sni=cf3.schzyc.cc.cd&type=ws&headerType=none&host=cf3.schzyc.cc.cd&path=%2Fproxyip%3DProxyIP.CMLiussss.net&fp=firefox#WIFI
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=firefox#WHITELIST
