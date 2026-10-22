@@ -1,2 +1,2 @@
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=chrome#WIFI
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=firefox#WHITELIST
+vless://1d690248-024b-4923-aab2-0abebe0688d3@2.59.21.105:443?security=reality&encryption=none&pbk=DdeYmAAHysQ_rMekhalJu0_u_Hc2D9j1pKfvSFFjfGM&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=stream.fotaku.xyz#WIFI
+vless://5d16ac22-6eea-426f-b778-6f4c2961faef@168.113.255.82:9831?security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#WHITELIST
