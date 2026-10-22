@@ -1,2 +1,2 @@
-vless://1d690248-024b-4923-aab2-0abebe0688d3@2.59.21.105:443?security=reality&encryption=none&pbk=DdeYmAAHysQ_rMekhalJu0_u_Hc2D9j1pKfvSFFjfGM&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=stream.fotaku.xyz#WIFI
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@168.113.255.82:9831?security=reality&sni=dl.google.com&fp=firefox&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&type=grpc&serviceName=grpc-tunnel&packetEncoding=xudp&encryption=none#WHITELIST
+vless://XpnTeam-33@199.232.78.160:443?encryption=none&type=ws&security=tls&path=%2F&host=Appxdn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&insecure=0&allowInsecure=0&fp=chrome#WIFI
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443?encryption=none&headerType=none&mode=gun&security=tls&serviceName=lalibobi.orbit.v3.Connect&sni=lalibobi.online&type=grpc&fp=chrome#WHITELIST
