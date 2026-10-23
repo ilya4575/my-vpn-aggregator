@@ -1,0 +1,2 @@
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8.219.173.17:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fmessage%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#WIFI
+vless://21ffcccd-8fbe-43fb-9dd1-24452fdfa8ad@188.225.38.216:443/?type=grpc&encryption=none&flow=&serviceName=lalibobi.orbit.v3.Connect&security=tls&sni=lalibobi.online&fp=firefox#WHITELIST
