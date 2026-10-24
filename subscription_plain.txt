@@ -1,2 +1,2 @@
-vless://846cedee-2a52-0001-a0b9-11850ead6a8b@79.98.37.106:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw&security=reality&sni=ee-central.v8x2b.lol&type=tcp#WIFI
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?encryption=none&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=edge#WHITELIST
+vless://846cedee-2a52-0001-a0b9-11850ead6a8b@ee-central.v8x2b.lol:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=USSepsAbvP9LpByHLV2xD2H8dq8GAJ6G0fINEqD4PAw&sni=ee-central.v8x2b.lol&fp=chrome#WIFI
+vless://46785352-db89-4839-8079-d4c69ad87996@46.254.19.39:443?encryption=none&flow=xtls-rprx-vision&pbk=qPRwGMNP4ARLW0wm2IQD29HjX8cqO3KnEy8Eld2SiGA&security=reality&sni=smartcaptcha.yandexcloud.net&type=raw&fp=edge#WHITELIST
