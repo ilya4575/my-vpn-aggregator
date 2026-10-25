@@ -1,2 +1,2 @@
-vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=chrome#WIFI
-vless://24f10224-ca83-4452-85a9-b3a68d2b76fa@fast23.slopllex.app:443?encryption=none&type=tcp&security=tls&sni=fast23.slopllex.app&flow=xtls-rprx-vision&fp=chrome#WHITELIST
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@ru.dostupnety.website:443?security=tls&sni=ru.dostupnety.website&type=ws&path=%2Fws-hidden&host=ru.dostupnety.website&fp=firefox#WIFI
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=ios#WHITELIST
