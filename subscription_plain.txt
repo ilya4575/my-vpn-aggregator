@@ -1,2 +1,2 @@
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws#WIFI
-vless://6eca8bc3-c4e1-48d1-bf15-1eb016dd6272@45.139.27.9:443?security=reality&type=tcp&sni=www.spbu.ru&host=www.spbu.ru&flow=xtls-rprx-vision&fp=random&pbk=2LWgemfg0df7tGt4icLbRG-Cz7QNPVr3g7xIdwbTTHQ&sid=caa05b44ba5b7b3d&allowInsecure=1#WHITELIST
+vless://2c5e1028-528f-4017-8832-addcb6797ddf@88.151.114.24:443?encryption=none&host=ru.dostupnety.website&path=%2Fws-hidden&security=tls&sni=ru.dostupnety.website&type=ws&fp=chrome#WIFI
+vless://24f10224-ca83-4452-85a9-b3a68d2b76fa@fast23.slopllex.app:443?encryption=none&type=tcp&security=tls&sni=fast23.slopllex.app&flow=xtls-rprx-vision&fp=chrome#WHITELIST
