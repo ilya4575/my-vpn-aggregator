@@ -1,2 +1,2 @@
-vless://6db6b948-655f-4f68-a9e7-865050e05b31@play.murka.fun:443?encryption=none&flow=xtls-rprx-vision&pbk=Fg70yRg0YvJyWsM1KWcawTSW670xdhF7hdMeMgUQOl0&security=reality&sid=1f82ac&fp=android#WIFI
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=firefox#WHITELIST
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=chrome#WIFI
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?security=reality&type=tcp&sni=263651t.fi3.h1clayd.click&host=263651t.fi3.h1clayd.click&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&sid=2892e611785bafd1&fp=random#WHITELIST
