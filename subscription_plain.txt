@@ -1,2 +1,2 @@
-vless://6258d81e-70ad-41f2-b15d-3e6ee8fb3009@subs.wildvf.esal.cl:443?path=%2Fvless%2F40004&security=tls&encryption=none&insecure=0&type=httpupgrade&allowInsecure=0&sni=subs.wildvf.esal.cl&fp=android#WIFI
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?encryption=none&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&security=reality&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&type=tcp&fp=chrome#WHITELIST
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@213.218.160.100:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#WIFI
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8444?type=grpc&security=tls&fp=firefox&sni=ru1.radiolumens.uk&serviceName=beru-uk#WHITELIST
