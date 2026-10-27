@@ -1,2 +1,2 @@
-vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?encryption=none&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&security=reality&serviceName=grpc_common1&sid=aacd5d42a33b2a4e&sni=ap-author.led.samsung.com&spx=%2Fbc0e0e3d3d4f532&type=grpc&fp=chrome#WIFI
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?security=tls&alpn=http%2F1.1&sni=broadcast.liveflow.space&type=ws&headerType=none&host=broadcast.liveflow.space&path=%2Flive.stream.v1.Broadcast%2F&fp=android#WHITELIST
+vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@198.202.24.214:2083?security=tls&type=ws&sni=vipfree.dr-ping.ir&path=%2F&host=vipfree.dr-ping.ir&fp=chrome#WIFI
+vless://FastKey_145297@185.22.154.131:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#WHITELIST
