@@ -1,2 +1,2 @@
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@185.36.143.71:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#WIFI
-vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443/?type=ws&encryption=none&flow=&host=dropstyle.lol&path=/service/metrics/51dec2df3071/&security=tls&sni=dropstyle.lol&fp=chrome#WHITELIST
+vless://XpnTeam-54@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=android#WIFI
+vless://d49f7cc7-0c15-4a49-9644-ef72e00d8e56@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fservice%2Fmetrics%2F51dec2df3071%2F&host=dropstyle.lol&sni=dropstyle.lol&headerType=none&fp=android#WHITELIST
