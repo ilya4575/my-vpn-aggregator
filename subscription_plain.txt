@@ -1,2 +1,2 @@
-vless://2a66ad35-93ce-4fd2-831f-bcaa63cdac1e@here-we-go-soocer.keno.su:443?security=reality&encryption=none&pbk=_J2iVrDDgPShx9YYjTxVc_HrL3mrBcP8K-TyyyvHQlU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=here-we-go-soocer.keno.su&sid=a1b2c3d4e5f60718&fp=chrome#WIFI
-vless://f439e4fe-139b-4882-ad8b-a16176d09c88@81.222.148.104:443?security=reality&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&type=raw&sni=eu53.cdn77.icu&sid=1ed136481e0ede74&fp=chrome#WHITELIST
+vless://XpnTeam-59@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com&fp=chrome#WIFI
+vless://a2200b5e-bed4-4d5f-8b05-1daf12f4322d@83.166.251.25:43000?security=reality&encryption=none&pbk=ux8nnKsidZNSIvm54EQf2RdXVawMCwto2DZiUNU1UQg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=2ab73e0b&fp=android#WHITELIST
