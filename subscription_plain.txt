@@ -1,2 +1,2 @@
-vless://a6ad7987-f17e-41fa-a752-72db9a725eb2@198.202.24.214:2083?security=tls&type=ws&sni=vipfree.dr-ping.ir&path=%2F&host=vipfree.dr-ping.ir&fp=chrome#WIFI
-vless://FastKey_145297@185.22.154.131:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#WHITELIST
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@77.232.135.141:8445?security=tls&serviceName=beru-pl&sni=ru1.radiolumens.uk&type=grpc#WIFI
+vless://36cf792c-f07d-4500-97ea-a395e5178deb@ru1.radiolumens.uk:8445?security=tls&sni=ru1.radiolumens.uk&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=beru-pl#WHITELIST
