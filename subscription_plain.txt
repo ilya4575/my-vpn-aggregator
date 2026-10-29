@@ -1,2 +1,2 @@
-vless://a0fa7e19-70ec-41e0-b0cc-bcc984d4201a@94.26.41.47:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=ded.bsh-net.ru&pbk=eGTeI8aqjoea2v_vEHimFxEuC1IA42r2tg7IcP5oq1U&sid=8e72c89e1adf4dc4&allowInsecure=1&fp=chrome#WIFI
-vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?type=ws&security=tls&path=%2Flive.stream.v1.Broadcast%2F&sni=broadcast.liveflow.space&fp=chrome#WHITELIST
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@47.253.251.184:443?encryption=none&security=tls&sni=edg-2oo.pages.dev&fp=chrome&type=ws&host=edg-2oo.pages.dev&path=%2Farticle%2Fpages%2Farchive%3Fed%3D2560#WIFI
+vless://073b7df7-5527-45a2-ba29-183b85c39071@194.55.239.89:443?alpn=http%2F1.1&encryption=none&host=broadcast.liveflow.space&path=%2Flive.stream.v1.Broadcast%2F&security=tls&sni=broadcast.liveflow.space&type=ws&fp=ios#WHITELIST
