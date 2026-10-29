@@ -1,2 +1,2 @@
-vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=www.slovarik.xyz&type=tcp&headerType=none&fp=chrome#WIFI
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@ee.h1cloud.net:25895?encryption=none&security=reality&sni=www.samsung.com&pbk=jOVKSP-bS9OkILJ8Epz8hadh6qhavCrOiJYeF0NCn0k&sid=a73f0410d728c823&type=tcp&headerType=none&host=ee.h1cloud.net&path=%2F&fp=qq#WHITELIST
+vless://05c66efe-4f1e-4df9-99e6-2b1b624fa7ae@193.201.82.144:443?encryption=none&security=tls&sni=sg.jinggai.online&alpn=http%2F1.1&type=ws&path=%2Fconnect%2F01&host=sg.jinggai.online&fp=chrome#WIFI
+vless://a2200b5e-bed4-4d5f-8b05-1daf12f4322d@83.166.251.25:43000?security=reality&encryption=none&pbk=ux8nnKsidZNSIvm54EQf2RdXVawMCwto2DZiUNU1UQg&headerType=none&spx=%2F&type=tcp&flow=xtls-rprx-vision&sid=2ab73e0b&fp=android#WHITELIST
