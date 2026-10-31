@@ -1,2 +1,2 @@
-vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@195.141.65.98:443?encryption=none&security=tls&sni=148-253-210-191.sslip.io&alpn=http%2F1.1&type=ws&path=%2Ftest-ws&host=148-253-210-191.sslip.io&fp=chrome#WIFI
-vless://8f763a7f-4cda-4db1-90e3-9aeae0860dc0@business.lesotorg-kirov.ru:443?path=%2Fchws&security=tls&encryption=none&insecure=0&host=business.lesotorg-kirov.ru&type=ws&allowInsecure=0&sni=business.lesotorg-kirov.ru&fp=safari#WHITELIST
+vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@ru9.aimodelhub.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=ru9.aimodelhub.top&flow=xtls-rprx-vision&sid=a73cf719b624&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&fp=android#WIFI
+vless://8fa83828-9777-4a5b-a951-60a4523f3e3d@46.17.45.116:443?security=tls&sni=fvphlc.syncpointbase.online&type=ws&path=%2Fws&host=fvphlc.syncpointbase.online&fp=firefox#WHITELIST
