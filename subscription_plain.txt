@@ -1,2 +1,2 @@
-vless://1ffd1edc-16da-4a9f-a72b-9b5253dfb9cc@by-tls.nerpvpn.net:443?security=tls&sni=mediatract.com&alpn=h2&fp=safari&insecure=0&allowInsecure=0&type=grpc&mode=gun&serviceName=%2Fgrpc&encryption=none#WIFI
-vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@ru9.aimodelhub.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=ru9.aimodelhub.top&flow=xtls-rprx-vision&sid=a73cf719b624&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&fp=qq#WHITELIST
+vless://XpnTeam-74@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#WIFI
+vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@176.108.242.45:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=o-r78pJoatRHP5RGYhjxbhm-33lQWuf2jjlEs1L8sjQ&security=reality&sid=9987250e5611c0d2&sni=lake.gaznw.my&type=tcp&fp=safari#WHITELIST
