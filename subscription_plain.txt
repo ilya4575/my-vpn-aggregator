@@ -1,2 +1,2 @@
-vless://XpnTeam-74@199.232.78.160:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#WIFI
-vless://902e7be9-d0a8-42a6-994f-8320916a9d9e@176.108.242.45:443?encryption=none&flow=xtls-rprx-vision&headerType=&pbk=o-r78pJoatRHP5RGYhjxbhm-33lQWuf2jjlEs1L8sjQ&security=reality&sid=9987250e5611c0d2&sni=lake.gaznw.my&type=tcp&fp=safari#WHITELIST
+vless://b7eb28c2-9bd0-4c53-859c-dc0646288b8c@ghosts-spasm.quick-cdn.net:443?security=tls&type=ws&path=/ws&host=ghosts-spasm.quick-cdn.net&packetEncoding=xudp&alpn=http/1.1&sni=ghosts-spasm.quick-cdn.net&fp=chrome#WIFI
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?alpn=http%2F1.1&host=lorettmay.top&path=%2Fblog%2Fposts&security=tls&sni=lorettmay.top&type=ws&fp=safari#WHITELIST
