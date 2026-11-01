@@ -1,2 +1,2 @@
-vless://8fa83828-9777-4a5b-a951-60a4523f3e3d@77.239.108.17:443?security=tls&sni=k7m2qa.kolombur24.website&type=ws&path=%2Fws&host=k7m2qa.kolombur24.website&fp=chrome#WIFI
-vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@45.12.5.171:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&sid=a73cf719b624&sni=ru9.aimodelhub.top&fp=chrome#WHITELIST
+vless://1ffd1edc-16da-4a9f-a72b-9b5253dfb9cc@by-tls.nerpvpn.net:443?security=tls&sni=mediatract.com&alpn=h2&fp=safari&insecure=0&allowInsecure=0&type=grpc&mode=gun&serviceName=%2Fgrpc&encryption=none#WIFI
+vless://ba895ce4-8c24-0003-9f22-81ee227c89d0@ru9.aimodelhub.top:443?security=reality&type=tcp&packetEncoding=xudp&sni=ru9.aimodelhub.top&flow=xtls-rprx-vision&sid=a73cf719b624&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&fp=qq#WHITELIST
