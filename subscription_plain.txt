@@ -1,2 +1,2 @@
-vless://916e4382-273b-4935-b0bc-ca7cc8eabea7@adheres-scruple.quick-cdn.net:443?type=ws&security=tls&sni=adheres-scruple.quick-cdn.net&alpn=http%2F1.1&path=%2Fws&host=adheres-scruple.quick-cdn.net#WIFI
-vless://2c7462d2-127f-4887-bf06-4b30ea6d9832@45.139.27.221:443?security=tls&sni=fi1.cdnconnect.org&type=ws&path=%2F&host=fi1.cdnconnect.org&fp=android#WHITELIST
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@72.56.11.115:443?flow=xtls-rprx-vision&pbk=LEziyH-E4k9hehGRJkVi1FadVObB_NZJy8U7oUCVWXU&security=reality&sid=b9120cd53ffd7bba&sni=dl-65.topp-con.xyz&fp=firefox#WIFI
+vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@5.129.202.80:443/?encryption=none&flow=xtls-rprx-vision&pbk=NY2bvH4IFKTstWkBWwyU5MmlzuKk0nU08cBoHlti2S8&security=reality&sid=2ef2b10d5143d798&sni=mirror-50.topp-con.xyz&type=tcp&fp=ios#WHITELIST
