@@ -1,2 +1,2 @@
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision#WIFI
-vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=edge#WHITELIST
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@130.49.177.193:443?security=reality&flow=xtls-rprx-vision&pbk=DCpi9-1rSXxBnEIAQ9U3mTqHivk7vHJRV_T2pWw5vCc&sid=681fc2dd643bc2f3&sni=de-2.ffpn.pro&type=tcp&headerType=none&host=de-2.ffpn.pro&path=%2F&fp=android#WIFI
+vless://2f6c70f3-206a-4bc1-ac1f-6b70153f9c73@connect2.accessgate.link:2087?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=unpkg.com&pbk=CQBmePak1QN5SsSmK_KTOSLjsCTaiaM4Jtxt7jLheko&sid=b0d8c9a285c70f6f&allowInsecure=1&fp=edge#WHITELIST
