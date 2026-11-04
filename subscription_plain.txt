@@ -1,2 +1,2 @@
-vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&security=reality&sid=23732d14a527990d&sni=www.chip.de&type=tcp&fp=random#WIFI
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@147.45.161.4:443?security=reality&type=tcp&sni=defs-68.topp-con.xyz&flow=xtls-rprx-vision&pbk=xTePrM5IyjR8o52B2mRAO2nNivfyMpBZxya93MQk4Qc&sid=2a40b6d6495debf3&allowInsecure=1&fp=chrome#WHITELIST
+vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision#WIFI
+vless://613b64fe-b88d-42db-9d4f-26b8654d4060@dep.slovarik.xyz:10443?encryption=none&security=tls&type=tcp&sni=www.slovarik.xyz&flow=xtls-rprx-vision&fp=edge#WHITELIST
