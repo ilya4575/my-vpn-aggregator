@@ -1,2 +1,2 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@104.19.154.200:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#WIFI
-vless://f9f70641-667b-46f2-a37e-e3858acbcd9b@104.171.134.135:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=360.yandex.ru&pbk=AMOBkNsSbIM8YBI6uosUBioGJSOp8eliEpW7vTZ4Mks&sid=8fd699a1c79e360d&fp=firefox#WHITELIST
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@fr.golangwikito.cfd:443?flow=xtls-rprx-vision&fp=safari&pbk=isYQuhKDrgc7IQ7G0LHywFnt57wffrkZ-er18DkVsBA&security=reality&sid=e6d589857d1cec5e&sni=fr.golangwikito.cfd&type=tcp#WIFI
+vless://c47159bb-2c15-440d-b239-8594d7e7efbb@135.106.190.126:443?security=tls&sni=xtdvvaie2g.j.cloudfront.hls.edgehls.net&alpn=h2&type=grpc&serviceName=sync.v1&mode=multi&fp=android#WHITELIST
