@@ -1,2 +1,2 @@
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.10.135:443?host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#WIFI
-vless://27653b37-603c-4c90-b1f5-25c4d23f8932@147.45.153.134:443?security=tls&sni=renderer-bridge-2-133.mirra.now&alpn=h2&type=grpc&serviceName=VideoRenderer&fp=edge#WHITELIST
+vless://87c467e9-f0af-4b03-8fbd-65fd375d3a26@188.114.97.6:443?security=tls&type=ws&path=/?ed=2048&host=pmpmppm.pages.dev&packetEncoding=xudp&alpn=http/1.1&sni=pmpmppm.pages.dev&fp=chrome#WIFI
+vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&headerType=&insecure=0&security=tls&sni=ripelever.net&type=tcp&fp=firefox#WHITELIST
