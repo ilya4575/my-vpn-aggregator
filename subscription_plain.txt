@@ -1,2 +1,2 @@
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=chrome#WIFI
-vless://9aff658c-1f80-4c82-9213-48ca26996142@168.113.128.70:20105?alpn=h2%252Chttp%252F1.1&flow=xtls-rprx-vision&host=ripelever.net&security=tls&sni=ripelever.net&type=tcp&fp=edge#WHITELIST
+vless://1beed393-7c4d-4432-beee-f1026b72d0cf@104.17.70.206:8443?alpn=http%2F1.1&encryption=none&host=free.sahanwickramasinghe.com&insecure=0&path=%2F&security=tls&sni=free.sahanwickramasinghe.com&type=ws&fp=chrome#WIFI
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl3-edge.gacvpn.site&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&fp=firefox#WHITELIST
