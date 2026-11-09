@@ -1,2 +1,2 @@
-vless://1beed393-7c4d-4432-beee-f1026b72d0cf@104.17.70.206:8443?alpn=http%2F1.1&encryption=none&host=free.sahanwickramasinghe.com&insecure=0&path=%2F&security=tls&sni=free.sahanwickramasinghe.com&type=ws&fp=chrome#WIFI
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@msk10.gacvpn.site:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl3-edge.gacvpn.site&pbk=Caj4X3VjnHfdRQzWLmjFCiG_CGw0scYYni6UxVfBs38&sid=db6a4219fb&fp=firefox#WHITELIST
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@104.19.212.207:443?&security=tls&fp=random&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip%3Dbpb.yousef.isegaro.com#WIFI
+vless://9d8c3007-dfcd-4d34-a729-ae793f826581@189.74.115.23:443?flow=xtls-rprx-vision&security=reality&sni=api.mediaroshcha.cc&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8#WHITELIST
