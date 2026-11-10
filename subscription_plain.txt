@@ -1,2 +1,2 @@
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?type=ws&security=tls&fp=chrome&sni=d1m31xp31bswc2.cloudfront.net&host=d1m31xp31bswc2.cloudfront.net#WIFI
-vless://cd9680e1-f115-4e16-91b9-ea59576c212d@94.156.181.35:443?security=tls&sni=moscow1.banovano.space&type=grpc&serviceName=&fp=firefox#WHITELIST
+vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?&security=reality&flow=xtls-rprx-vision&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&sid=2e96bf6afa823abb&fp=chrome&sni=sg-sin.probe.geomyip.com&type=tcp&headerType=none&host=sg-sin.probe.geomyip.com&path=%2F#WIFI
+vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@185.229.9.156:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#WHITELIST
