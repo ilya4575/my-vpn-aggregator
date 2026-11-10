@@ -1,2 +1,2 @@
-vless://c5f59ef3-9540-49fa-bd1e-c6c2f79df49a@134.255.211.36:443?&security=reality&flow=xtls-rprx-vision&pbk=KcI3PoYu2yF7whv-e0C7JnRyUoUiUDu6tOlUBPYYbCk&sid=2e96bf6afa823abb&fp=chrome&sni=sg-sin.probe.geomyip.com&type=tcp&headerType=none&host=sg-sin.probe.geomyip.com&path=%2F#WIFI
-vless://84a56b88-2f89-4a57-b925-74abd5b7fd87@185.229.9.156:8445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=passport.yandex.ru&pbk=I_0JD13_bJuD6bNhTfb1PFPJUQqEVHl-YFluNwHAPD4&fp=chrome&spx=/#WHITELIST
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&packetEncoding=xudp&sni=fast.145779.xyz&fp=edge#WIFI
+vless://19201df4-60db-45be-ad2a-4698f834cda8@193.187.95.125:23445?security=reality&flow=xtls-rprx-vision&pbk=4gsBmGLP8DPaO6fX4G5Twq3tYY6q70UM8hE6N6GY0BQ&sid=326054eb7772bc5f&sni=www.faceit.com&fp=ios#WHITELIST
