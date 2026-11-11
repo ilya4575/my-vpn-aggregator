@@ -1,2 +1,2 @@
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&packetEncoding=xudp&sni=fast.145779.xyz&fp=edge#WIFI
-vless://010be6fa-ab5f-404a-9edf-ab2db1f09f0c@95.163.232.240:443?encryption=none&fp=chrome&host=files.neurixai.app&path=%2Fapi%2Fgenerate&security=tls&sni=files.neurixai.app&type=ws#WHITELIST
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@104.21.58.37:2053?security=tls&sni=fast.145779.xyz&type=ws&host=fast.145779.xyz&path=%2Fws-tesla&fp=edge#WIFI
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?security=tls&sni=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&fp=firefox&type=ws&host=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&packetEncoding=xudp#WHITELIST
