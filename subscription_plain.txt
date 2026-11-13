@@ -1,2 +1,2 @@
-vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.64.147.2:443?&security=tls&fp=chrome&sni=vltj.qzz.io&type=ws&headerType=none&host=vltj.qzz.io&path=%2Fid-pusat#WIFI
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=chrome#WHITELIST
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@157.22.231.205:443?encryption=none&security=tls&sni=cryptoventura.online&fp=firefox&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fde3%2Flive&host=cryptoventura.online#WIFI
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@157.22.231.205:443?encryption=none&security=tls&sni=cryptoventura.online&alpn=http%2F1.1&type=ws&path=%2Fapi%2Fde3%2Flive&host=cryptoventura.online&fp=chrome#WHITELIST
