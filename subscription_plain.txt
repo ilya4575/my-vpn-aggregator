@@ -1,2 +1,2 @@
-vless://67cd3349-f789-4cbb-8b91-4b6b1654ce7c@3.169.9.125:443?&security=tls&fp=chrome&sni=d14jyezfrcyf60.cloudfront.net&type=ws&headerType=none&host=d14jyezfrcyf60.cloudfront.net&path=%2F#WIFI
-vless://2232d904-8e6a-4202-8240-6efd8aec02e9@185.178.208.167:443?type=ws&security=tls&encryption=none&path=%2Fblog%2Fposts&host=lorettmay.top&sni=lorettmay.top&alpn=http%2F1.1&headerType=none&fp=edge#WHITELIST
+vless://506e4a91-1d05-5683-b84c-2113f673cb19@172.64.147.2:443?&security=tls&fp=chrome&sni=vltj.qzz.io&type=ws&headerType=none&host=vltj.qzz.io&path=%2Fid-pusat#WIFI
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@bhjolq0d0l.flowersgood.top:443?security=tls&type=ws&sni=bhjolq0d0l.flowersgood.top&path=%2Fservice%2Ftelemetry%2F045d381f1166%2F&host=bhjolq0d0l.flowersgood.top&alpn=http%2F1.1&allowInsecure=0&insecure=0&fp=chrome#WHITELIST
