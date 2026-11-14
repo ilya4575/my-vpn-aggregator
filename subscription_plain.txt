@@ -1,2 +1,2 @@
-vless://9b2be2d3-96cd-4ffc-aac2-649c74f92402@166.0.22.238:2053?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=jp1.netease.uz&type=tcp#WIFI
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=chrome#WHITELIST
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.16.111.102:443?fp=safari&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&sni=jp3.yohototo.top&type=ws#WIFI
+vless://95c2ba1e-a330-4e6b-bd81-bf9c0f647b2f@49930ag.es8.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=49930ag.es8.h1clayd.click&pbk=H_sPS4IJjHa4Wd7WLAtp_eamROtKBAj-G0UcMBHLHQw&sid=2437eeeb791b6d80&fp=firefox&spx=/&serviceName=61c20be08f4f#WHITELIST
