@@ -1,2 +1,2 @@
-vless://c83f15bf-1817-4ec8-a19f-6393d226434c@fast.145779.xyz:2053?path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=qq#WIFI
-vless://7955bf18-35c4-412d-aabd-c0b36c793063@nguyxejonb.flowersgood.top:443?security=tls&type=ws&sni=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&host=nguyxejonb.flowersgood.top#WHITELIST
+vless://0458f752-92b9-4862-abb0-d274a539b791@172.64.83.4:2053?encryption=none&security=tls&sni=cc.818567.xyz&fp=chrome&alpn=http%2F1.1&type=ws&host=cc.818567.xyz&path=%2Fcdn&insecure=0#WIFI
+vless://7955bf18-35c4-412d-aabd-c0b36c793063@185.86.147.175:443?alpn=http%2F1.1&encryption=none&host=nguyxejonb.flowersgood.top&path=%2Fservice%2Ftelemetry%2F0294da469190%2F&security=tls&sni=nguyxejonb.flowersgood.top&type=ws&fp=firefox#WHITELIST
