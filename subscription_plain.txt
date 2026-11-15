@@ -1,2 +1,2 @@
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@104.18.34.16:443?type=ws&security=tls&fp=chrome&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev#WIFI
-vless://97fd7807-7e2b-49da-8a0e-e40197088f97@165.231.157.148:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=api-6af74a4f.adhil.uk&type=tcp#WHITELIST
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@104.21.58.37:2053?security=tls&type=ws&path=%2Fws-tesla&host=fast.145779.xyz&sni=fast.145779.xyz&fp=android#WIFI
+vless://9548ef84-b54d-41dc-b17c-9da21d52ba82@212.233.90.78:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=birch-ledger.justext.space&pbk=FwPphm8xGAKY6u74WDRVrcVye3A7GdLDfJoNSDWFsFQ&sid=2c6df23e&fp=chrome&spx=/#WHITELIST
