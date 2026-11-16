@@ -1,2 +1,2 @@
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/free/1.226.227.169%3A50001&host=nuclear.us.kg&sni=nuclear.us.kg#WIFI
-vless://3fc29b36-3ec4-4b77-b8e8-ff0dbf7d3530@176.12.69.96:2087?security=reality&sni=ed-ru52.edgehubnet.com&fp=firefox&pbk=pK3OYJwGEwl4jStSckLxG_mWPb4Ctc1aROej9KEFaA4&sid=d2b0677b38b29462&type=grpc&serviceName=grpc#WHITELIST
+vless://c83f15bf-1817-4ec8-a19f-6393d226434c@172.67.199.126:2053?host=fast.145779.xyz&path=%2Fws-tesla&security=tls&sni=fast.145779.xyz&type=ws&fp=ios#WIFI
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=edge#WHITELIST
