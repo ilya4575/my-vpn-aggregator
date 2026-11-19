@@ -1,2 +1,2 @@
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@188.114.96.3:443?encryption=none&type=ws&security=tls&path=/free/1.226.227.169%3A50001&host=nuclear.us.kg&sni=nuclear.us.kg#WIFI
-vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@168.113.143.5:443?flow=xtls-rprx-vision&security=tls&sni=rsk3.betust.net&fp=edge#WHITELIST
+vless://debafe5b-6760-4b00-b0b2-ee30cbf769f0@ujp.xn--ghqu5fm27b67w.com:443?encryption=none&security=tls&sni=portland-wins-robbie-skirt.trycloudflare.com&type=ws&host=portland-wins-robbie-skirt.trycloudflare.com&path=%2Fe0843c8ad581&fp=edge#WIFI
+vless://FastKey_305996@45.129.2.18:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#WHITELIST
