@@ -1,2 +1,2 @@
-vless://debafe5b-6760-4b00-b0b2-ee30cbf769f0@ujp.xn--ghqu5fm27b67w.com:443?encryption=none&security=tls&sni=portland-wins-robbie-skirt.trycloudflare.com&type=ws&host=portland-wins-robbie-skirt.trycloudflare.com&path=%2Fe0843c8ad581&fp=edge#WIFI
-vless://FastKey_305996@45.129.2.18:8080?path=%2Fapi&security=none&encryption=none&host=google.com&type=ws#WHITELIST
+vless://29627b5f-502c-4596-84f0-be07a1dd8bd5@31.57.185.176:443?encryption=none&fp=chrome&pbk=WSRUkuuId9FFfLjGfsCbl5ZXpV0I2ERCo35SKPPEQHY&security=reality&sid=3e503521b2fb&sni=www.cloudflare.com&spx=%2Fd875449d15fd7d4&support-x25519mlkem768=true&type=tcp#WIFI
+vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=edge#WHITELIST
