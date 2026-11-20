@@ -1,2 +1,2 @@
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.144.198:443?&security=tls&fp=chrome&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&type=ws&headerType=none&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=%2F#WIFI
-vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#WHITELIST
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ledger.filnex.baby:443?encryption=none&type=grpc&security=tls&sni=copperdell.merlano.monster&alpn=h2&serviceName=glush.de2.v1&fp=qq#WIFI
+vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@ws3.falmero.store:443?encryption=none&type=ws&security=tls&sni=canvas.merlano.monster&alpn=http%2F1.1&path=%2Fapi%2Fde1%2Fstream&fp=chrome#WHITELIST
