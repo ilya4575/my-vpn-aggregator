@@ -1,2 +1,2 @@
-vless://29627b5f-502c-4596-84f0-be07a1dd8bd5@31.57.185.176:443?encryption=none&fp=chrome&pbk=WSRUkuuId9FFfLjGfsCbl5ZXpV0I2ERCo35SKPPEQHY&security=reality&sid=3e503521b2fb&sni=www.cloudflare.com&spx=%2Fd875449d15fd7d4&support-x25519mlkem768=true&type=tcp#WIFI
-vless://537d8ade-134d-4ec2-905c-0187e7e1e22e@f0f0bet.fi2.h1clayd.click:443?encryption=none&pbk=_oCg5rCW6XTxriBPzbd_AX0os6QhenVYO9cbrsDSyRY&security=reality&sid=cf2a731a5f2dc451&sni=f0f0bet.fi2.h1clayd.click&spx=%2F&type=grpc&fp=edge#WHITELIST
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.144.198:443?&security=tls&fp=chrome&sni=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&type=ws&headerType=none&host=powered-by-surena.configfarsi695fcfe8a2e58.workers.dev&path=%2F#WIFI
+vless://c2b17066-5386-0001-803b-5e652c0528f9@185.178.208.167:443?encryption=none&host=api.14887277.xyz&path=%2Fsession&security=tls&sni=trx.tools&type=ws&fp=android#WHITELIST
