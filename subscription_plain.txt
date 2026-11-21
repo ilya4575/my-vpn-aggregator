@@ -1,2 +1,2 @@
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:62015?&security=reality&flow=xtls-rprx-vision&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&sid=fa514b83&fp=chrome&sni=swdist.apple.com&type=tcp&headerType=none&host=free.fugui.lol&path=%2F#WIFI
+vless://099244b9-2168-4dbd-870e-cbbe9d6eb573@8.39.125.213:443?security=tls&type=ws&path=/proxyip=ProxyIP.SG.CMLiussss.Net&host=whitecreeper.pages.dev&packetEncoding=xudp&sni=whitecreeper.pages.dev&fp=chrome&encryption=none#WIFI
 vless://25ac78e7-6d1d-4c9a-a450-c01a4871769f@almanac.filnex.baby:443?alpn=h2&encryption=none&security=tls&serviceName=glush.de1.v1&sni=morningfen.merlano.monster&type=grpc&fp=chrome#WHITELIST
