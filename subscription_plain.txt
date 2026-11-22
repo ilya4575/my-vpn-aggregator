@@ -1,2 +1,2 @@
-vless://ead3595f-4020-4e76-a3ec-c248e1a2f2f7@free.fugui.lol:47396?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IjWYbHNrZb3UCQxsTJyekEOA3tHq42L6Jw3O8MmLYVQ&security=reality&sid=fa514b83&sni=swdist.apple.com&type=tcp#WIFI
-vless://8cef0a51-ce05-50f7-993d-bd341515cc44@89.125.29.31:443?security=reality&type=tcp&sni=5post-gate.x5.ru&host=5post-gate.x5.ru&flow=xtls-rprx-vision&pbk=1uPNqF5lZg3rU19RXDAT_fijCVi7CGLPxVJY5riHoi0&sid=3fdebbbb&fp=firefox#WHITELIST
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.158.78:443?security=tls&type=ws&path=%2F%3Fed&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi695fce27aa549.workers.dev&fp=chrome#WIFI
+vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?flow=xtls-rprx-vision&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=fontanka.ru&fp=edge#WHITELIST
