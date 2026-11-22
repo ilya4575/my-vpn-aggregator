@@ -1,2 +1,2 @@
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.158.78:443?security=tls&type=ws&path=%2F%3Fed&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&packetEncoding=xudp&sni=powered-by-surena.configfarsi695fce27aa549.workers.dev&fp=chrome#WIFI
-vless://a9ff24d3-f308-4e72-acb9-a76062583837@82.202.142.227:23444?flow=xtls-rprx-vision&pbk=T1BWBw3lq9G1LiQ7eQSPfdNQic7bUMEbdFNJBewAwB8&security=reality&sid=6ad3c0f1e9b2478a&sni=fontanka.ru&fp=edge#WHITELIST
+vless://4201786b-d99b-4147-a5f0-20d47acddb81@4935e4t.de25.h1clayd.click:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=MzgB17ZFbKqs8pbC3EscTzHid_ENc-k_Cp6nXl-2knw&security=reality&sid=6976d670818644cc&sni=4935e4t.de25.h1clayd.click&type=tcp&fp=ios#WIFI
+vless://1f2836d7-e9ef-47d7-a9c4-1037077ae8d7@91.196.35.143:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ru1.videoharpaeva.online&pbk=TiEI9N7l54CTgAJDeaq_z1yGWR0eZg5WDeHW0M9aZ3A&sid=2d573e637e6b94be&fp=firefox#WHITELIST
