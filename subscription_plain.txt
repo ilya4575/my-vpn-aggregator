@@ -1,2 +1,2 @@
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.150.34:443?sni=powered-by-surena.configfarsi695fce27aa549.workers.dev&type=ws&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&path=/?edfp=chrome&security=tls#WIFI
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%2525252F1.1&fp=edge#WHITELIST
+vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp&fp=chrome#WIFI
+vless://77998cc6-8a4d-4251-b974-ebff48a84c4d@95.129.236.216:443?alpn=http%2F1.1&encryption=none&host=crm.hourtley.com&path=%2Fstream%2Fvideo%2Fffmpeg&security=tls&sni=crm.hourtley.com&type=ws&fp=android#WHITELIST
