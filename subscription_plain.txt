@@ -1,2 +1,2 @@
-vless://3692de53-42e6-4aed-a522-40ec355dcd2f@104.17.70.206:8443?alpn=http%2F1.1&encryption=none&host=free.sahanwickramasinghe.com&path=%2F&security=tls&sni=free.sahanwickramasinghe.com&type=ws&fp=edge&allowInsecure=0&insecure=0#WIFI
-vless://3e1798b2-8b39-49e8-9f5f-f3235a16bd66@213.178.155.234:8443?alpn=http%2F1.1&encryption=none&fp=safari&path=%2Fapi%2Fv4%2Fmedia%2Fsession&security=tls&sni=focus.tcpshield.fun&type=ws#WHITELIST
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.150.34:443?sni=powered-by-surena.configfarsi695fce27aa549.workers.dev&type=ws&host=powered-by-surena.configfarsi695fce27aa549.workers.dev&path=/?edfp=chrome&security=tls#WIFI
+vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@files-qzgs.login.opendns.stream:443?security=tls&type=ws&sni=files-qzgs.login.opendns.stream&path=%2Forigin%2F246825491%2Ffetch&alpn=http%2525252F1.1&fp=edge#WHITELIST
