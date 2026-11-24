@@ -1,2 +1,2 @@
-vless://d0cd1ad9-ee11-0001-8c96-ff9981022fcd@168.113.254.3:443?security=tls&sni=rbzummkhxtmdipkpij.fcloudservices.site&encryption=none&type=tcp&fp=chrome#WIFI
-vless://77998cc6-8a4d-4251-b974-ebff48a84c4d@95.129.236.216:443?alpn=http%2F1.1&encryption=none&host=crm.hourtley.com&path=%2Fstream%2Fvideo%2Fffmpeg&security=tls&sni=crm.hourtley.com&type=ws&fp=android#WHITELIST
+vless://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?&security=tls&sni=dfsuporte.garena.com.ex33r.eu.cc&type=ws&headerType=none&host=dfsuporte.garena.com.ex33r.eu.cc&path=%2Fid-pusat#WIFI
+vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@168.113.252.145:443?&security=reality&flow=xtls-rprx-vision&pbk=_qSbW4JL4Ffqvj25vX-6a2ul9Qlj6PBdlF0ghsf_0RQ&sid=a9dc98a7dc87a7dc&fp=firefox&sni=tarakan.belka.tv&type=tcp&headerType=none&host=tarakan.belka.tv&path=%2F#WHITELIST
