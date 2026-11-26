@@ -1,2 +1,2 @@
-vless://83825c32-f2a9-4501-aa30-4131ecb40bbf@axe.mastopen14.ir:443?host=mojito1703.mastopen14.ir&path=%2Ff13eb798-4cc9-41b0-a955-88a2fb289821&security=tls&sni=mojito1703.mastopen14.ir&type=ws#WIFI
-vless://d333f217-c24b-45ee-a852-607d2fbc0fde@189.74.115.5:443?flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediaroshcha.cc&fp=edge#WHITELIST
+vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@192.9.250.241:443?encryption=none&security=tls&sni=accessfooter.cleanfoodshop.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&host=accessfooter.cleanfoodshop.org#WIFI
+vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-4hmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&sid=d4735e3a265e&fp=chrome#WHITELIST
