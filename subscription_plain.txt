@@ -1,2 +1,2 @@
-vless://58e22afd-bf74-4736-984d-63a8ca03d7f0@192.9.250.241:443?encryption=none&security=tls&sni=accessfooter.cleanfoodshop.org&fp=firefox&type=ws&path=%2Fmedia%2Fws%2F&host=accessfooter.cleanfoodshop.org#WIFI
-vless://48818046-00b5-4576-bbe8-d2971fe0f844@yellow-4hmq5ehr3ievlnabv8l2.concept7.ru:443?security=reality&encryption=none&pbk=KEZ93Y9VgoirI18wIpcfS3z8I9GiaiFe-GKqGdEPMmg&headerType=&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=player.mediavitrina.ru&sid=d4735e3a265e&fp=chrome#WHITELIST
+vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm2.soft10.ir&type=ws&fp=safari#WIFI
+vless://6e0e88aa-e0c5-4d39-ad30-819d29703feb@85.193.80.59:443?flow=xtls-rprx-vision&pbk=UL0LjUo797oTCpvP274d3vvzRWq7owll8ugyDoS_WU8&security=reality&sid=80&sni=www.kinopoisk.ru&type=raw&fp=android#WHITELIST
