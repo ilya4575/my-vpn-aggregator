@@ -1,2 +1,2 @@
-vless://55b3fd10-3658-40a2-8951-ec90932d1d30@172.64.155.209:443?headerType=none&host=sinavm2.soft10.ir&path=%2FSiNAVM-SiNAVM-SiNAVM-SiNAVM&security=tls&sni=sinavm2.soft10.ir&type=ws&fp=safari#WIFI
-vless://6e0e88aa-e0c5-4d39-ad30-819d29703feb@85.193.80.59:443?flow=xtls-rprx-vision&pbk=UL0LjUo797oTCpvP274d3vvzRWq7owll8ugyDoS_WU8&security=reality&sid=80&sni=www.kinopoisk.ru&type=raw&fp=android#WHITELIST
+vless://419032d7-2247-49c9-85c8-cc454b7c11d6@cf.090227.xyz:443?encryption=none&security=tls&sni=tiffany-capability-very-apartments.trycloudflare.com&type=ws&host=tiffany-capability-very-apartments.trycloudflare.com&path=%2Fvl-419032d7&allowInsecure=0&insecure=0#WIFI
+vless://ea759639-a58c-4c46-8e0b-4cc834bf6658@ru-bridge.funky-monkey.app:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=steam-videos.cc&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=android#WHITELIST
